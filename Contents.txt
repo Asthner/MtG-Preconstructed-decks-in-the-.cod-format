@@ -1,0 +1,164 @@
+I. Introductory products (products designed as the main entry point for new players)
+
+1. 2-Player Starter Sets (starter- and advanced-level introductory preconstructed decks; starter/advanced distinction based on advertised level, not the contents; full names of some products are guesses)
+
+	Starter
+	1996:	Introductory Two-Player Set (Fourth Edition)
+			Rivals Quick Start Set (Fourth Edition)
+	1997:	Portal Starter Set (Portal)
+	1998:	Portal Second Age Starter Set (Portal Second Age)
+	1999:	Portal Three Kingdoms Starter Set (Portal Three Kingdoms)
+			Starter game box (Starter 1999)
+	2000:	Starter 2000 (Starter 2000)
+	2001:	7th Edition 2 Player Starter Set (Seventh Edition)
+	
+	Advanced
+	1997:	Fifth Edition 2 Player Set (Fifth Edition)
+	1999:	Classic Sixth Edition (Classix Sixth Edition)
+	2003:	Core Game (Eight Edition)
+	2005:	Core Game (Ninth Edition)
+	
+2. Sample decks (simple and small preconstructed decks given away for free to new players; often designed in a way allowing to combine the packs into full sized decks)
+	
+	2007:	Tenth Edition (10 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2010:	Magic 2011 (10 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2011:	Magic 2012 (10 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2012:	Magic 2013 (5 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2013:	Magic 2014 (5 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2014:	Magic 2015 (5 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2015:	Magic Origins (5 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2016:	Welcome Deck 2016 (5 decks; TODO: (1) reformat into .cod (2) do combined versions)
+	2017:	Welcome Deck 2017 (5 decks; TODO: (1) reformat into .cod (2) do combined versions)
+
+3. Theme decks/Intro packs (preconstructed decks aimed at introducing new and returning players, and showcasing the themes of a given set)
+
+	Starter
+	1998:	Portal Second Age (5 decks; TODO: (1) reformat into .cod)
+	1999:	Starter 1999 (5 decks)
+	1999:	Portal Three Kingdoms (5 decks; TODO: (1) reformat into .cod)
+	
+	Advanced/Core Sets (5 decks each)
+	2001:	Seventh Edition
+	2003:	Eight Edition
+	2005:	Ninth Edition
+	2007:	Tenth Edition
+	2009:	Magic 2010
+	2010:	Magic 2011
+	2011:	Magic 2012
+	2012:	Magic 2013
+	2013:	Magic 2014
+	2014:	Magic 2015
+	2015:	Magic Origins
+	
+	Expert/Expansions
+	1995-2006:	Ice Age Block (4 decks)
+	1996:	Mirage Block (12 decks total)
+	1997:	Tempest Block (16 decks total, including 4 advanced Exodus decklists)
+	1998:	Urza Block (12 decks total)
+	1999:	Masques Block (12 decks total)
+	2000:	Invasion Block (12 decks total)
+	2001:	Oddysey Block (12 decks total)
+	2002:	Onslaught Block (12 decks total)
+	2003:	Mirrodin Block (12 decks total)
+	2004:	Kamigawa Block (12 decks total)
+	2005:	Ravnica Block (10 decks total)
+	2006:	Time Spiral Block (12 decks total)
+	2007:	Lorwyn-Shadowmoor Block (19 decks total)
+	2008:	Alara Block (15 decks total)
+	2009:	Zendikar Block (15 decks total)
+	2010:	Scars of Mirrodin Block (14 decks total)
+	2011:	Innistrad Block (15 decks total)
+	2012:	Return to Ravnica Block (15 decks total)
+	2013:	Theros Block (15 decks total)
+	2014:	Tarkir Block (15 decks total)	
+	2015:	Battle for Zendikar Block (10 decks total)
+	2016:	Shadows over Zendikar Block (10 decks total)
+	
+	MTGO (online-only)
+	2008:	Masters Edition II (4 decks)
+	
+4. Clash packs (preconstructed decks that could be played against each other or reassembled into a tournament-level deck)
+
+	2014:	Magic 2015
+	2015:	Fate Reforged
+			Magic Origins
+	
+5. Planeswalker decks (preconstructed decks aimed at introducing new players and showcasing the themes and characters (planeswalkers) of current sets)
+
+	2016:	Kaladesh block (4 decks)
+	2017:	Amonkhet block (4 decks)
+
+II. Expert-level products (preconstructed decks aimed at advanced players)
+
+1. World Championship Decks (tournament illegal versions of the top 4 decks from the world championships)
+
+	1997-2004:	32 decks (TODO: (1) convert to .cod)
+
+2. Event decks (tournament ready preconstructed decks)
+
+	2011:	Scars of Mirrodin Block (4 decks, the first two decks were from the 2011's Mirrodin Besieged)
+			Magic 2012 (2 decks)
+			Innistrad Block (6 decks)
+	2012:	Magic 2013 (2 decks)
+			Return to Ravnica Block (5 decks)
+	2013:	Magic 2014 (1 deck)
+			Theros Block (3 decks)
+	2014:	Modern (1 deck for the Modern format)
+			Tarkir Block (2 decks)
+	2015:	Battle for Zendikar (1 deck)
+	
+3. Premium deck series (all-foil preconstructed decks from a Legacy-wide card pool, aimed at both new and old players)
+
+	2009:	Slivers
+	2010:	Fire & Lightning
+	2011:	Graveborn
+
+4. Duel decks (preconstructed decks designed to be played against each other)
+
+	2007:	Elves vs Goblins
+	2008:	Jace vs Chandra
+	2009:	Divine vs Demonic
+			Garruk vs Liliana
+	2010:	Phyrexia vs The Coalition
+			Elspeth vs Tezzeret
+	2011:	Knights vs Dragons
+			Ajani vs Nicol Bolas
+	2012:	Venser vs Koth
+			Izzet vs Golgari
+	2013:	Mirrodin Pure vs New Phyrexia (online only release with incomplete decklists; TODO: (1) convert to .cod)
+			Sorin vs Tibalt
+			Heroes vs Monsters
+	2014:	Jace vs Vraska
+			Speed vs Cunning
+	2015:	Elspeth vs Kiora
+			Zendikar vs Eldrazi
+	2016:	Blessed vs Cursed
+			Nissa vs Ob Nixilis
+	2017:	Mind vs Might
+			Merfolk vs Goblins (TODO: (1) add to archive once the decklists become public)
+
+III. Supplementary products (preconstructed decks with different rules than standard MtG or otherwise diverging from the classic variant of the game)
+
+1. Elder Dragon Highlander/Commander (TODO: (1) add format description)
+
+	2009:	Commander Theme Decks (online only, 2 decks)
+	2011:	Commander (5 decks)
+	2013:	Commander 2013 (5 decks)
+	2014:	Commander 2014 (5 decks)
+	2015:	Commander 2015 (5 decks)
+	2016:	Commander 2016 (5 decks)
+
+2. Planechase
+
+	TODO: (1) add format description, (2) add decks
+
+3. Archenemy
+
+	TODO: (1) add format description, (2) add decks
+
+4. Challenge decks
+
+	TODO: (1) add format description, (2) add decks
+	
+
+Collection compiled by Asthner
