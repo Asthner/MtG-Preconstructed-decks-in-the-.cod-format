@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 2</deckname>
+    <comments>Portal Starter Set</comments>
+    <zone name="main">
+        <card number="6" name="Swamp"/>
+        <card number="6" name="Island"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Craven Knight"/>
+        <card number="1" name="Feral Shadow"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Hand of Death"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Muck Rats"/>
+        <card number="1" name="Skeletal Crocodile"/>
+        <card number="1" name="Vampiric Touch"/>
+        <card number="1" name="Cloak of Feathers"/>
+        <card number="1" name="Command of Unsummoning"/>
+        <card number="1" name="Coral Eel"/>
+        <card number="1" name="Ingenious Thief"/>
+        <card number="1" name="Snapping Drake"/>
+        <card number="1" name="Storm Crow"/>
+        <card number="1" name="Time Ebb"/>
+        <card number="1" name="Touch of Brilliance"/>
+        <card number="1" name="Elite Cat Warrior"/>
+        <card number="1" name="Monstrous Growth"/>
+        <card number="1" name="Panther Warriors"/>
+        <card number="1" name="Rowan Treefolk"/>
+    </zone>
+</cockatrice_deck>

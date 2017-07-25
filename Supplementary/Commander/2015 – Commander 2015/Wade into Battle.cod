@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wade into Battle</deckname>
+    <comments>Commander 2015</comments>
+    <zone name="main">
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Stinkdrinker Daredevil"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Dawnglare Invoker"/>
+        <card number="1" name="Desolation Giant"/>
+        <card number="1" name="Fumiko the Lowblood"/>
+        <card number="1" name="Hunted Dragon"/>
+        <card number="1" name="Stoneshock Giant"/>
+        <card number="1" name="Thundercloud Shaman"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Kalemne's Captain"/>
+        <card number="1" name="Anya, Merciless Angel"/>
+        <card number="1" name="Sunrise Sovereign"/>
+        <card number="1" name="Hammerfist Giant"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Dawnbreak Reclaimer"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Hostility"/>
+        <card number="1" name="Jareth, Leonine Titan"/>
+        <card number="1" name="Victory's Herald"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Hamletback Goliath"/>
+        <card number="1" name="Arbiter of Knollridge"/>
+        <card number="1" name="Borderland Behemoth"/>
+        <card number="1" name="Dream Pillager"/>
+        <card number="1" name="Magma Giant"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Gisela, Blade of Goldnight"/>
+        <card number="1" name="Breath of Darigaaz"/>
+        <card number="1" name="Fiery Confluence"/>
+        <card number="1" name="Disaster Radius"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Meteor Blast"/>
+        <card number="1" name="Fall of the Hammer"/>
+        <card number="1" name="Orim's Thunder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Coldsteel Heart"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Boros Cluestone"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Staff of Nin"/>
+        <card number="1" name="Curse of the Nightly Hunt"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Faith's Fetters"/>
+        <card number="1" name="Rite of the Raging Storm"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Ancient Amphitheater"/>
+        <card number="1" name="Blasted Landscape"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Drifting Meadow"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Forgotten Cave"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Smoldering Crater"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+        <card number="14" name="Mountain"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Crib Swap"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kalemne, Disciple of Iroas"/>
+    </zone>
+</cockatrice_deck>

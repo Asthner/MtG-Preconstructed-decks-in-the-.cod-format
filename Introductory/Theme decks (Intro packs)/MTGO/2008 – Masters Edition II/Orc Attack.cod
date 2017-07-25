@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Orc Attack</deckname>
+    <comments>Masters Edition II (MTGO)</comments>
+    <zone name="main">
+        <card number="22" name="Mountain"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="2" name="Gorilla Shaman"/>
+        <card number="4" name="Ironclaw Orcs"/>
+        <card number="1" name="Brassclaw Orcs"/>
+        <card number="2" name="Brothers of Fire"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="2" name="Orc General"/>
+        <card number="2" name="Orcish Cannoneers"/>
+        <card number="3" name="Orcish Captain"/>
+        <card number="3" name="Orcish Conscripts"/>
+        <card number="1" name="Orcish Squatters"/>
+        <card number="1" name="Orcish Veteran"/>
+        <card number="2" name="Stone Giant"/>
+        <card number="1" name="Varchild's Crusader"/>
+        <card number="1" name="Skull Catapult"/>
+        <card number="2" name="Death Spark"/>
+        <card number="1" name="Fissure"/>
+        <card number="2" name="Incinerate"/>
+        <card number="2" name="Lightning Bolt"/>
+        <card number="1" name="Panic"/>
+        <card number="1" name="Pyrokinesis"/>
+        <card number="1" name="Pillage"/>
+        <card number="1" name="Meteor Shower"/>
+    </zone>
+</cockatrice_deck>

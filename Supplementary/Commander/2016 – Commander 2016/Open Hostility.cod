@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Open Hostility</deckname>
+    <comments>Commander 2016</comments>
+    <zone name="main">
+        <card number="1" name="Wight of Precinct Six"/>
+        <card number="1" name="Den Protector"/>
+        <card number="1" name="Quirion Explorer"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sylvok Explorer"/>
+        <card number="1" name="Korozda Guildmage"/>
+        <card number="1" name="Zhur-Taa Druid"/>
+        <card number="1" name="Selesnya Guildmage"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Alesha, Who Smiles at Death"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Wild Beastmaster"/>
+        <card number="1" name="Wilderness Elemental"/>
+        <card number="1" name="Dauntless Escort"/>
+        <card number="1" name="Brutal Hordechief"/>
+        <card number="1" name="Thelonite Hermit"/>
+        <card number="1" name="Iroas, God of Victory"/>
+        <card number="1" name="Mycoloth"/>
+        <card number="1" name="Ankle Shanker"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Stalking Vengeance"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Clan Defiance"/>
+        <card number="1" name="Lavalanche"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Abzan Charm"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Crackling Doom"/>
+        <card number="1" name="Grab the Reins"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Sunforger"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Necrogenesis"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Everlasting Torment"/>
+        <card number="1" name="Breath of Fury"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Grand Coliseum"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Swamp"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Tymna the Weaver"/>
+        <card number="1" name="Charging Cinderhorn"/>
+        <card number="1" name="Tana, the Bloodsower"/>
+        <card number="1" name="Ravos, Soultender"/>
+        <card number="1" name="Stonehoof Chieftain"/>
+        <card number="1" name="Primeval Protector"/>
+        <card number="1" name="Conqueror's Flail"/>
+        <card number="1" name="Evolutionary Escalation"/>
+        <card number="1" name="Frenzied Fugue"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Divergent Transformations"/>
+        <card number="1" name="Grave Upheaval"/>
+        <card number="1" name="Treacherous Terrain"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Order // Chaos"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Saskia the Unyielding"/>
+    </zone>
+</cockatrice_deck>

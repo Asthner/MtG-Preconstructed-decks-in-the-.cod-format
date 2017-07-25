@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deathbreed</deckname>
+    <comments>Masters Edition II (MTGO)</comments>
+    <zone name="main">
+        <card number="24" name="Snow-Covered Swamp"/>
+        <card number="3" name="Armor Thrull"/>
+        <card number="2" name="Ashen Ghoul"/>
+        <card number="1" name="Basal Thrull"/>
+        <card number="1" name="Cuombajj Witches"/>
+        <card number="1" name="Derelor"/>
+        <card number="3" name="Drift of the Dead"/>
+        <card number="1" name="Ebon Praetor"/>
+        <card number="2" name="Gangrenous Zombies"/>
+        <card number="1" name="Kjeldoran Dead"/>
+        <card number="1" name="Knight of Stromgald"/>
+        <card number="2" name="Mindstab Thrull"/>
+        <card number="1" name="Minion of Leshrac"/>
+        <card number="2" name="Nether Shadow"/>
+        <card number="2" name="Necrite"/>
+        <card number="3" name="Breeding Pit"/>
+        <card number="1" name="Phyrexian Boon"/>
+        <card number="1" name="Oubliette"/>
+        <card number="1" name="Thrull Retainer"/>
+        <card number="1" name="Withering Wisps"/>
+        <card number="1" name="Dark Banishing"/>
+        <card number="1" name="Feast or Famine"/>
+        <card number="1" name="Hymn to Tourach"/>
+        <card number="1" name="Ritual of the Machine"/>
+        <card number="2" name="Soul Exchange"/>
+    </zone>
+</cockatrice_deck>

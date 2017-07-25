@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Band Togethe</deckname>
+    <comments>Masters Edition II (MTGO)
+</comments>
+    <zone name="main">
+        <card number="21" name="Plains"/>
+        <card number="1" name="Kjeldoran Outpost"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Ruins of Trokair"/>
+        <card number="1" name="Adarkar Sentinel"/>
+        <card number="1" name="Angel of Light"/>
+        <card number="2" name="Aysen Crusader"/>
+        <card number="2" name="Benalish Hero"/>
+        <card number="2" name="Combat Medic"/>
+        <card number="2" name="Icatian Javelineers"/>
+        <card number="2" name="Icatian Lieutenant"/>
+        <card number="1" name="Icatian Phalanx"/>
+        <card number="1" name="Icatian Scout"/>
+        <card number="1" name="Kjeldoran Elite Guard"/>
+        <card number="2" name="Kjeldoran Home Guard"/>
+        <card number="1" name="Kjeldoran Skycaptain"/>
+        <card number="1" name="Order of the White Shield"/>
+        <card number="1" name="Royal Trooper"/>
+        <card number="2" name="Shield Bearer"/>
+        <card number="2" name="Soldevi Simulacrum"/>
+        <card number="2" name="Aeolipile"/>
+        <card number="1" name="Divine Transformation"/>
+        <card number="1" name="Inheritance"/>
+        <card number="2" name="Disenchant"/>
+        <card number="1" name="Reprisal"/>
+        <card number="1" name="Exile"/>
+        <card number="1" name="Scars of the Veteran"/>
+        <card number="2" name="Swords to Plowshares"/>
+        <card number="1" name="Righteous Fury"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zendikar's Rage</deckname>
+    <comments>Battle for Zendikar intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Blighted Woodland"/>
+        <card number="2" price="0" name="Fertile Thicket"/>
+        <card number="3" price="0" name="Evolving Wilds"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Grove Rumbler"/>
+        <card number="1" price="0" name="Makindi Sliderunner"/>
+        <card number="1" price="0" name="Murasa Ranger"/>
+        <card number="1" price="0" name="Oran-Rief Hydra"/>
+        <card number="1" price="0" name="Rot Shambler"/>
+        <card number="1" price="0" name="Scythe Leopard"/>
+        <card number="1" price="0" name="Valakut Predator"/>
+        <card number="2" price="0" name="Broodhunter Wurm"/>
+        <card number="2" price="0" name="Lavastep Raider"/>
+        <card number="2" price="0" name="Oran-Rief Invoker"/>
+        <card number="2" price="0" name="Snapping Gnarlid"/>
+        <card number="2" price="0" name="Territorial Baloth"/>
+        <card number="2" price="0" name="Tunneling Geopede"/>
+        <card number="2" price="0" name="Valakut Invoker"/>
+        <card number="1" price="0" name="Retreat to Kazandu"/>
+        <card number="1" price="0" name="Retreat to Valakut"/>
+        <card number="1" price="0" name="Nissa's Renewal"/>
+        <card number="1" price="0" name="Reclaiming Vines"/>
+        <card number="1" price="0" name="Rolling Thunder"/>
+        <card number="2" price="0" name="Seek the Wilds"/>
+        <card number="2" price="0" name="Sylvan Scrying"/>
+        <card number="1" price="0" name="Natural Connection"/>
+        <card number="1" price="0" name="Stonefury"/>
+        <card number="1" price="0" name="Sure Strike"/>
+        <card number="1" price="0" name="Swell of Growth"/>
+    </zone>
+</cockatrice_deck>

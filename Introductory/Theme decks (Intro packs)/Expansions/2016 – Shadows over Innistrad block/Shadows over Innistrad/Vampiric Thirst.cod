@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vampiric Thirst</deckname>
+    <comments>Shadows over Innistrad intro pack</comments>
+    <zone name="main">
+        <card number="2" price="0" name="Indulgent Aristocrat"/>
+        <card number="1" price="0" name="Olivia's Bloodsworn"/>
+        <card number="2" price="0" name="Ravenous Bloodseeker"/>
+        <card number="2" price="0" name="Sanguinary Mage"/>
+        <card number="2" price="0" name="Vampire Noble"/>
+        <card number="2" price="0" name="Bloodmad Vampire"/>
+        <card number="2" price="0" name="Stromkirk Mentor"/>
+        <card number="1" price="0" name="Mad Prophet"/>
+        <card number="2" price="0" name="Voldaren Duelist"/>
+        <card number="2" price="0" name="Twins of Maurer Estate"/>
+        <card number="1" price="0" name="Markov Dreadknight"/>
+        <card number="2" price="0" name="Incorrigible Youths"/>
+        <card number="1" price="0" name="Macabre Waltz"/>
+        <card number="1" price="0" name="Murderous Compulsion"/>
+        <card number="2" price="0" name="Tormenting Voice"/>
+        <card number="2" price="0" name="Alms of the Vein"/>
+        <card number="2" price="0" name="Malevolent Whispers"/>
+        <card number="1" price="0" name="Burn from Within"/>
+        <card number="2" price="0" name="Fiery Temper"/>
+        <card number="1" price="0" name="Sinister Concoction"/>
+        <card number="1" price="0" name="Senseless Rage"/>
+        <card number="1" price="0" name="Creeping Dread"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="12" price="0" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

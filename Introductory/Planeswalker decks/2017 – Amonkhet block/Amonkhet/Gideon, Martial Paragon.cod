@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gideon, Martial Paragon</deckname>
+    <comments>Amonkhet planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" name="Gideon, Martial Paragon"/>
+        <card number="1" name="Glory-Bound Initiate"/>
+        <card number="3" name="Gust Walker"/>
+        <card number="1" name="Nef-Crop Entangler"/>
+        <card number="1" name="Pathmaker Initiate"/>
+        <card number="2" name="Honored Crop-Captain"/>
+        <card number="3" name="Companion of the Trials"/>
+        <card number="1" name="Devoted Crop-Mate"/>
+        <card number="4" name="Graceful Cat"/>
+        <card number="3" name="Ahn-Crop Crasher"/>
+        <card number="2" name="Sparring Mummy"/>
+        <card number="1" name="Tah-Crop Elite"/>
+        <card number="2" name="Hyena Pack"/>
+        <card number="1" name="Impeccable Timing"/>
+        <card number="2" name="Electrify"/>
+        <card number="2" name="Cartouche of Zeal"/>
+        <card number="1" name="Hazoret's Favor"/>
+        <card number="3" name="Trial of Zeal"/>
+        <card number="2" name="Gideon's Resolve"/>
+        <card number="4" name="Stone Quarry"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

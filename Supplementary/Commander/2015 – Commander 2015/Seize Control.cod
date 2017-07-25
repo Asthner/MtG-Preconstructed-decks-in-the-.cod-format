@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Seize Control</deckname>
+    <comments>Commander 2015</comments>
+    <zone name="main">
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Jace's Archivist"/>
+        <card number="1" name="Gigantoplasm"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Broodbirth Viper"/>
+        <card number="1" name="Illusory Ambusher"/>
+        <card number="1" name="Lone Revenant"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="1" name="Charmbreaker Devils"/>
+        <card number="1" name="Arjun, the Shifting Flame"/>
+        <card number="1" name="Etherium-Horn Sorcerer"/>
+        <card number="1" name="Melek, Izzet Paragon"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Mystic Retrieval"/>
+        <card number="1" name="Stolen Goods"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Sleep"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Call the Skybreaker"/>
+        <card number="1" name="Blatant Thievery"/>
+        <card number="1" name="Epic Experiment"/>
+        <card number="1" name="Meteor Blast"/>
+        <card number="1" name="Blustersquall"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Echoing Truth"/>
+        <card number="1" name="Desperate Ravings"/>
+        <card number="1" name="Urza's Rage"/>
+        <card number="1" name="Counterflux"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Reins of Power"/>
+        <card number="1" name="Steam Augury"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Word of Seizing"/>
+        <card number="1" name="Act of Aggression"/>
+        <card number="1" name="Prophetic Bolt"/>
+        <card number="1" name="Mirror Match"/>
+        <card number="1" name="Firemind's Foresight"/>
+        <card number="1" name="Repeal"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Dominate"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Seal of the Guildpact"/>
+        <card number="1" name="Awaken the Sky Tyrant"/>
+        <card number="1" name="Rite of the Raging Storm"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="14" name="Island"/>
+        <card number="13" name="Mountain"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Aethersnatch"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mizzix of the Izmagnus"/>
+    </zone>
+</cockatrice_deck>

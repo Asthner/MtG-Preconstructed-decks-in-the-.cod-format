@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zakk's Second Deck</deckname>
+    <comments>Rivals Quick Start Set
+</comments>
+    <zone name="main">
+        <card number="4" name="Forest"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Elvish Archers"/>
+        <card number="1" name="Mesa Pegasus"/>
+        <card number="1" name="Wall of Bone"/>
+        <card number="1" name="War Mammoth"/>
+        <card number="1" name="Whirling Dervish"/>
+        <card number="1" name="Glasses of Urza"/>
+        <card number="1" name="Rod of Ruin"/>
+        <card number="1" name="Reverse Damage"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Winter Blast"/>
+        <card number="1" name="Circle of Protection: Black"/>
+        <card number="1" name="Circle of Protection: Red"/>
+        <card number="1" name="Warp Artifact"/>
+        <card number="1" name="Weakness"/>
+    </zone>
+</cockatrice_deck>

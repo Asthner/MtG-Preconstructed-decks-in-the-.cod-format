@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ajani, Valiant Protector</deckname>
+    <comments>Aether Revolt planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" name="Ajani, Valiant Protector"/>
+        <card number="2" name="Narnam Renegade"/>
+        <card number="2" name="Verdant Automaton"/>
+        <card number="3" name="Ajani's Comrade"/>
+        <card number="3" name="Audacious Infiltrator"/>
+        <card number="1" name="Ghirapur Guide"/>
+        <card number="2" name="Silkweaver Elite"/>
+        <card number="1" name="Deadeye Harpooner"/>
+        <card number="1" name="Solemn Recruit"/>
+        <card number="2" name="Armorcraft Judge"/>
+        <card number="2" name="Lifecraft Cavalry"/>
+        <card number="1" name="Ridgescale Tusker"/>
+        <card number="1" name="Airdrop Aeronauts"/>
+        <card number="1" name="Prey Upon"/>
+        <card number="4" name="Inspiring Roar"/>
+        <card number="1" name="Engineered Might"/>
+        <card number="1" name="Natural Obsolescence"/>
+        <card number="3" name="Renegade Map"/>
+        <card number="1" name="Daredevil Dragster"/>
+        <card number="2" name="Unbridled Growth"/>
+        <card number="2" name="Ajani's Aid"/>
+        <card number="1" name="Aid from the Cowl"/>
+        <card number="4" name="Tranquil Expanse"/>
+        <card number="9" name="Forest"/>
+        <card number="9" name="Plains"/>
+    </zone>
+</cockatrice_deck>

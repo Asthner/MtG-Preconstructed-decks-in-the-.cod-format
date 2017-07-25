@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 1</deckname>
+    <comments>Portal Second Age Starter Set</comments>
+    <zone name="main">
+        <card number="3" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Dakmor Bat"/>
+        <card number="1" name="Dakmor Scorpion"/>
+        <card number="1" name="Goblin Cavaliers"/>
+        <card number="1" name="Goblin Piker"/>
+        <card number="1" name="Goblin Raider"/>
+        <card number="1" name="Lynx"/>
+        <card number="1" name="Moaning Spirit"/>
+        <card number="1" name="Norwood Ranger"/>
+        <card number="1" name="Obsidian Giant"/>
+        <card number="1" name="Ogre Berserker"/>
+        <card number="1" name="Plated Wurm"/>
+        <card number="1" name="Prowling Nightstalker"/>
+        <card number="1" name="Raging Goblin"/>
+        <card number="1" name="Coercion"/>
+        <card number="1" name="Hand of Death"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Volcanic Hammer"/>
+    </zone>
+</cockatrice_deck>

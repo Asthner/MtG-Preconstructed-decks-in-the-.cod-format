@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 2</deckname>
+    <comments>Portal Three Kingdoms Starter Set
+</comments>
+    <zone name="main">
+        <card number="3" name="Forest"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Forest Bear"/>
+        <card number="1" name="Shu Cavalry"/>
+        <card number="1" name="Shu Elite Companions"/>
+        <card number="1" name="Shu Elite Infantry"/>
+        <card number="1" name="Shu Foot Soldiers"/>
+        <card number="1" name="Shu Grain Caravan"/>
+        <card number="1" name="Southern Elephant"/>
+        <card number="1" name="Straw Soldiers"/>
+        <card number="1" name="Volunteer Militia"/>
+        <card number="1" name="Wu Elite Cavalry"/>
+        <card number="1" name="Wu Light Cavalry"/>
+        <card number="1" name="Wu Scout"/>
+        <card number="1" name="Borrowing 100,000 Arrows"/>
+        <card number="1" name="Council of Advisors"/>
+        <card number="1" name="Forced Retreat"/>
+        <card number="1" name="Misfortune's Gain"/>
+        <card number="1" name="Trip Wire"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Demonic Deals</deckname>
+    <comments>Magic Origins intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="14" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Cobblebrute"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Kothophed, Soul Hoarder"/>
+        <card number="1" price="0" name="Revenant"/>
+        <card number="2" price="0" name="Blazing Hellhound"/>
+        <card number="2" price="0" name="Enthralling Victor"/>
+        <card number="2" price="0" name="Malakir Cullblade"/>
+        <card number="2" price="0" name="Returned Centaur"/>
+        <card number="2" price="0" name="Shambling Ghoul"/>
+        <card number="3" price="0" name="Nantuko Husk"/>
+        <card number="3" price="0" name="Undead Servant"/>
+        <card number="1" price="0" name="Chandra's Fury"/>
+        <card number="1" price="0" name="Ravaging Blaze"/>
+        <card number="1" price="0" name="Unholy Hunger"/>
+        <card number="2" price="0" name="Cruel Revival"/>
+        <card number="2" price="0" name="Fiery Impulse"/>
+        <card number="1" price="0" name="Chandra's Ignition"/>
+        <card number="1" price="0" name="Necromantic Summons"/>
+        <card number="1" price="0" name="Nightsnare"/>
+        <card number="1" price="0" name="Reave Soul"/>
+        <card number="3" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Weight of the Underworld"/>
+    </zone>
+</cockatrice_deck>

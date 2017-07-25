@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Might</deckname>
+    <comments>Duel Decks: Mind vs Might
+</comments>
+    <zone name="main">
+        <card number="1" name="Lovisa Coldeyes"/>
+        <card number="2" name="Skarrgan Pit-Skulk"/>
+        <card number="2" name="Kruin Striker"/>
+        <card number="1" name="Talara's Battalion"/>
+        <card number="1" name="Radha, Heir to Keld"/>
+        <card number="2" name="Burning-Tree Emissary"/>
+        <card number="1" name="Zo-Zu the Punisher"/>
+        <card number="1" name="Relentless Hunter"/>
+        <card number="2" name="Ambassador Oak"/>
+        <card number="2" name="Gorehorn Minotaurs"/>
+        <card number="2" name="Cloudcrown Oak"/>
+        <card number="1" name="Rubblebelt Raiders"/>
+        <card number="1" name="Kamahl, Pit Fighter"/>
+        <card number="1" name="Boldwyr Intimidator"/>
+        <card number="2" name="Firebolt"/>
+        <card number="2" name="Rampant Growth"/>
+        <card number="2" name="Call of the Herd"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Increasing Savagery"/>
+        <card number="1" name="Roar of the Wurm"/>
+        <card number="1" name="Guttural Response"/>
+        <card number="2" name="Sylvan Might"/>
+        <card number="1" name="Beacon of Destruction"/>
+        <card number="1" name="Beast Attack"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="4" name="Rugged Highlands"/>
+        <card number="11" name="Mountain"/>
+        <card number="10" name="Forest"/>
+    </zone>
+</cockatrice_deck>

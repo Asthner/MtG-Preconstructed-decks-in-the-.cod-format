@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Swell the Host</deckname>
+    <comments>Commander 2015</comments>
+    <zone name="main">
+        <card number="1" name="Experiment One"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Plaxmanta"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Caller of the Claw"/>
+        <card number="1" name="Loaming Shaman"/>
+        <card number="1" name="Noble Quarry"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Viridian Shaman"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Kaseto, Orochi Archmage"/>
+        <card number="1" name="Lorescale Coatl"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Wistful Selkie"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Patagia Viper"/>
+        <card number="1" name="Thelonite Hermit"/>
+        <card number="1" name="Ninja of the Deep Hours"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Stingerfling Spider"/>
+        <card number="1" name="Broodbirth Viper"/>
+        <card number="1" name="Illusory Ambusher"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Arbor Colossus"/>
+        <card number="1" name="Great Oak Guardian"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Prime Speaker Zegana"/>
+        <card number="1" name="Caller of the Pack"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Desert Twister"/>
+        <card number="1" name="Verdant Confluence"/>
+        <card number="1" name="Biomantic Mastery"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Snakeform"/>
+        <card number="1" name="Cobra Trap"/>
+        <card number="1" name="Mirror Match"/>
+        <card number="1" name="Synthetic Destiny"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Simic Keyrune"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Scytheclaw"/>
+        <card number="1" name="Orochi Hatchery"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Day of the Dragons"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Llanowar Reborn"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Novijen, Heart of Progress"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Zoetic Cavern"/>
+        <card number="14" name="Forest"/>
+        <card number="11" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ezuri, Claw of Progress"/>
+    </zone>
+</cockatrice_deck>

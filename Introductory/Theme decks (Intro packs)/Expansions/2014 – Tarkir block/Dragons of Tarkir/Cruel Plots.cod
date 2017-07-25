@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Cruel Plots</deckname>
+    <comments>Dragons of Tarkir intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="11" price="0" name="Island"/>
+        <card number="2" price="0" name="Shambling Goblin"/>
+        <card number="2" price="0" name="Sidisi's Faithful"/>
+        <card number="1" price="0" name="Hand of Silumgar"/>
+        <card number="2" price="0" name="Qarsi Sadist"/>
+        <card number="2" price="0" name="Palace Familiar"/>
+        <card number="2" price="0" name="Dutiful Attendant"/>
+        <card number="1" price="0" name="Minister of Pain"/>
+        <card number="1" price="0" name="Ukud Cobra"/>
+        <card number="1" price="0" name="Vulturous Aven"/>
+        <card number="1" price="0" name="Wandering Tombshell"/>
+        <card number="1" price="0" name="Gurmag Drowner"/>
+        <card number="1" price="0" name="Profaner of the Dead"/>
+        <card number="2" price="0" name="Youthful Scholar"/>
+        <card number="2" price="0" name="Rakshasa Gravecaller"/>
+        <card number="2" price="0" name="Silumgar Butcher"/>
+        <card number="1" price="0" name="Necromaster Dragon"/>
+        <card number="2" price="0" name="Ruthless Deathfang"/>
+        <card number="1" price="0" name="Coat with Venom"/>
+        <card number="1" price="0" name="Ultimate Price"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="1" price="0" name="Silumgar's Scorn"/>
+        <card number="1" price="0" name="Gravepurge"/>
+        <card number="1" price="0" name="Death Wind"/>
+        <card number="1" price="0" name="Mind Rot"/>
+        <card number="1" price="0" name="Reduce in Stature"/>
+        <card number="1" price="0" name="Silumgar Monument"/>
+    </zone>
+</cockatrice_deck>

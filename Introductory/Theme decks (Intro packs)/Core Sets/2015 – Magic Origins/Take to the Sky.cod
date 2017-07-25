@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Take to the Sky</deckname>
+    <comments>Magic Origins intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="10" price="0" name="Plains"/>
+        <card number="14" price="0" name="Island"/>
+        <card number="1" price="0" name="Alhammarret, High Arbiter"/>
+        <card number="1" price="0" name="Aven Battle Priest"/>
+        <card number="1" price="0" name="Soulblade Djinn"/>
+        <card number="2" price="0" name="Charging Griffin"/>
+        <card number="2" price="0" name="Nivix Barrier"/>
+        <card number="2" price="0" name="Sigiled Starfish"/>
+        <card number="2" price="0" name="Thunderclap Wyvern"/>
+        <card number="2" price="0" name="Totem-Guide Hartebeest"/>
+        <card number="2" price="0" name="Tower Geist"/>
+        <card number="2" price="0" name="Watercourser"/>
+        <card number="2" price="0" name="Yoked Ox"/>
+        <card number="3" price="0" name="Faerie Miscreant"/>
+        <card number="1" price="0" name="Celestial Flare"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="1" price="0" name="Turn to Frog"/>
+        <card number="2" price="0" name="Hydrolash"/>
+        <card number="2" price="0" name="Healing Hands"/>
+        <card number="1" price="0" name="Murder Investigation"/>
+        <card number="1" price="0" name="Stratus Walk"/>
+        <card number="2" price="0" name="Claustrophobia"/>
+        <card number="2" price="0" name="Suppression Bonds"/>
+    </zone>
+</cockatrice_deck>

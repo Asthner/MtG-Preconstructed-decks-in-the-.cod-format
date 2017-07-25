@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Massed Ranks</deckname>
+    <comments>Dragons of Tarkir intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="13" price="0" name="Plains"/>
+        <card number="11" price="0" name="Forest"/>
+        <card number="1" price="0" name="Dromoka Dunecaster"/>
+        <card number="2" price="0" name="Servant of the Scale"/>
+        <card number="2" price="0" name="Dromoka Warrior"/>
+        <card number="3" price="0" name="Lightwalker"/>
+        <card number="1" price="0" name="Territorial Roc"/>
+        <card number="1" price="0" name="Scaleguard Sentinels"/>
+        <card number="2" price="0" name="Sandcrafter Mage"/>
+        <card number="2" price="0" name="Salt Road Quartermasters"/>
+        <card number="2" price="0" name="Champion of Arashin"/>
+        <card number="2" price="0" name="Aven Tactician"/>
+        <card number="2" price="0" name="Sandsteppe Scavenger"/>
+        <card number="2" price="0" name="Enduring Scalelord"/>
+        <card number="1" price="0" name="Arashin Sovereign"/>
+        <card number="2" price="0" name="Inspiring Call"/>
+        <card number="2" price="0" name="Scale Blessing"/>
+        <card number="1" price="0" name="Enduring Victory"/>
+        <card number="2" price="0" name="Dromoka's Gift"/>
+        <card number="1" price="0" name="Secure the Wastes"/>
+        <card number="1" price="0" name="Sheltered Aerie"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Dromoka Monument"/>
+    </zone>
+</cockatrice_deck>

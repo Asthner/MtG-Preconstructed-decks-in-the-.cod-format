@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Angelic Fury</deckname>
+    <comments>Shadows over Innistrad intro pack</comments>
+    <zone name="main">
+        <card number="2" price="0" name="Stern Constable"/>
+        <card number="2" price="0" name="Ember-Eye Wolf"/>
+        <card number="3" price="0" name="Devilthorn Fox"/>
+        <card number="1" price="0" name="Unruly Mob"/>
+        <card number="2" price="0" name="Howlpack Wolf"/>
+        <card number="3" price="0" name="Cathar's Companion"/>
+        <card number="2" price="0" name="Pyre Hound"/>
+        <card number="1" price="0" name="Runaway Carriage"/>
+        <card number="2" price="0" name="Inspiring Captain"/>
+        <card number="1" price="0" name="Flameblade Angel"/>
+        <card number="1" price="0" name="Magmatic Chasm"/>
+        <card number="1" price="0" name="Angelic Purge"/>
+        <card number="1" price="0" name="Devils' Playground"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="2" price="0" name="Rush of Adrenaline"/>
+        <card number="2" price="0" name="Dance with Devils"/>
+        <card number="2" price="0" name="Inner Struggle"/>
+        <card number="1" price="0" name="Dissension in the Ranks"/>
+        <card number="1" price="0" name="Murderer's Axe"/>
+        <card number="1" price="0" name="Gryff's Boon"/>
+        <card number="2" price="0" name="Nahiri's Machinations"/>
+        <card number="13" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

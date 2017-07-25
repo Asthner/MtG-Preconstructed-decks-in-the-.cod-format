@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Silver deck</deckname>
+    <comments>Core Game (8E)</comments>
+    <zone name="main">
+        <card number="8" name="Plains"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Eager Cadet"/>
+        <card number="4" name="Glory Seeker"/>
+        <card number="3" name="Giant Octopus"/>
+        <card number="2" name="Vizzerdrix"/>
+        <card number="2" name="Coral Eel"/>
+        <card number="1" name="Fugitive Wizard"/>
+        <card number="2" name="Sacred Nectar"/>
+        <card number="2" name="Vengeance"/>
+        <card number="1" name="Index"/>
+    </zone>
+</cockatrice_deck>

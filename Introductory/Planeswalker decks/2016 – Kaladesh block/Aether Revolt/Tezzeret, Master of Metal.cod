@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Tezzeret, Master of Metal</deckname>
+    <comments>Aether Revolt planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" name="Tezzeret, Master of Metal"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="2" name="Augmenting Automaton"/>
+        <card number="1" name="Merchant's Dockhand"/>
+        <card number="2" name="Dhund Operative"/>
+        <card number="3" name="Tezzeret's Simulacrum"/>
+        <card number="1" name="Dukhara Peafowl"/>
+        <card number="1" name="Treasure Keeper"/>
+        <card number="1" name="Quicksmith Spy"/>
+        <card number="1" name="Foundry Assembler"/>
+        <card number="2" name="Bastion Inventor"/>
+        <card number="2" name="Wind-Kin Raiders"/>
+        <card number="1" name="Ironclad Revolutionary"/>
+        <card number="1" name="Barricade Breaker"/>
+        <card number="1" name="Fen Hauler"/>
+        <card number="1" name="Reverse Engineer"/>
+        <card number="2" name="Tezzeret's Betrayal"/>
+        <card number="1" name="Essence Extraction"/>
+        <card number="2" name="Universal Solvent"/>
+        <card number="4" name="Pendulum of Patterns"/>
+        <card number="2" name="Implement of Examination"/>
+        <card number="2" name="Tezzeret's Touch"/>
+        <card number="4" name="Submerged Boneyard"/>
+        <card number="11" name="Island"/>
+        <card number="10" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

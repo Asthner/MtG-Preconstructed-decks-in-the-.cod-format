@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Player B's advanced deck</deckname>
+    <comments>Starter 2000</comments>
+    <zone name="main">
+        <card number="4" name="Island"/>
+        <card number="5" name="Plains"/>
+        <card number="2" name="Eager Cadet"/>
+        <card number="1" name="Giant Octopus"/>
+        <card number="1" name="Knight Errant"/>
+        <card number="1" name="Merfolk of the Pearl Trident"/>
+        <card number="1" name="Royal Falcon"/>
+        <card number="1" name="Sea Eagle"/>
+        <card number="1" name="Vizzerdrix"/>
+        <card number="1" name="Wild Griffin"/>
+        <card number="1" name="Wind Drake"/>
+        <card number="1" name="Angelic Blessing"/>
+        <card number="1" name="Breath of Life"/>
+        <card number="1" name="Time Ebb"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Obsianus Golem"/>
+        <card number="1" name="Prodigal Sorcerer"/>
+        <card number="1" name="Samite Healer"/>
+        <card number="1" name="Venerable Monk"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Flight"/>
+        <card number="1" name="Hero's Resolve"/>
+        <card number="1" name="Inspiration"/>
+    </zone>
+</cockatrice_deck>

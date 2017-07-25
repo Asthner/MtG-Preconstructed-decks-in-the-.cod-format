@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gold Deck</deckname>
+    <comments>7th Edition 2-Player Starter Set
+</comments>
+    <zone name="main">
+        <card number="6" name="Forest"/>
+        <card number="8" name="Mountain"/>
+        <card number="3" name="Grizzly Bears"/>
+        <card number="1" name="Ogre Taskmaster"/>
+        <card number="2" name="Trained Orgg"/>
+        <card number="1" name="Spined Wurm"/>
+        <card number="1" name="Hill Giant"/>
+        <card number="2" name="Goblin Raider"/>
+        <card number="2" name="Lava Axe"/>
+        <card number="1" name="Monstrous Growth"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="2" name="Volcanic Hammer"/>
+    </zone>
+</cockatrice_deck>

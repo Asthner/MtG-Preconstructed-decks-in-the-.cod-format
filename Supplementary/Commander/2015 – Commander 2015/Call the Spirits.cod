@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Call the Spirits</deckname>
+    <comments>Commander 2015</comments>
+    <zone name="main">
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Karlov of the Ghost Council"/>
+        <card number="1" name="Underworld Coinsmith"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Dawnglare Invoker"/>
+        <card number="1" name="Ghostblade Eidolon"/>
+        <card number="1" name="Kor Sanctifiers"/>
+        <card number="1" name="Monk Idealist"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Nighthowler"/>
+        <card number="1" name="Corpse Augur"/>
+        <card number="1" name="Fate Unraveler"/>
+        <card number="1" name="Ajani's Chosen"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Dreadbringer Lampads"/>
+        <card number="1" name="Celestial Ancient"/>
+        <card number="1" name="Celestial Archon"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Banshee of the Dread Choir"/>
+        <card number="1" name="Thief of Blood"/>
+        <card number="1" name="Treasury Thrull"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Silent Sentinel"/>
+        <card number="1" name="Teysa, Envoy of Ghosts"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Gild"/>
+        <card number="1" name="Dawn to Dusk"/>
+        <card number="1" name="Righteous Confluence"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Death Grasp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Crystal Chimes"/>
+        <card number="1" name="Orzhov Cluestone"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Grave Peril"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Cage of Hands"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Vow of Duty"/>
+        <card number="1" name="Fallen Ideal"/>
+        <card number="1" name="Seal of Doom"/>
+        <card number="1" name="Vow of Malice"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Underworld Connections"/>
+        <card number="1" name="Daxos's Torment"/>
+        <card number="1" name="Marshal's Anthem"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Necromancer's Covenant"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="New Benalia"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="11" name="Plains"/>
+        <card number="13" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Daxos the Returned"/>
+    </zone>
+</cockatrice_deck>

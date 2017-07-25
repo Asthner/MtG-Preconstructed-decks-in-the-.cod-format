@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vicious Cycle</deckname>
+    <comments>Oath of the Gatewatch intro pack</comments>
+    <zone name="main">
+        <card number="2" price="0" name="Blisterpod"/>
+        <card number="2" price="0" name="Carrier Thrall"/>
+        <card number="2" price="0" name="Loam Larva"/>
+        <card number="2" price="0" name="Rot Shambler"/>
+        <card number="2" price="0" name="Stalking Drone"/>
+        <card number="1" price="0" name="Essence Depleter"/>
+        <card number="1" price="0" name="Voracious Null"/>
+        <card number="2" price="0" name="Netcaster Spider"/>
+        <card number="1" price="0" name="Null Caller"/>
+        <card number="1" price="0" name="Broodhunter Wurm"/>
+        <card number="1" price="0" name="Smothering Abomination"/>
+        <card number="2" price="0" name="Seed Guardian"/>
+        <card number="1" price="0" name="Kozilek's Pathfinder"/>
+        <card number="1" price="0" name="Brood Monitor"/>
+        <card number="1" price="0" name="Baloth Null"/>
+        <card number="1" price="0" name="Dread Defiler"/>
+        <card number="2" price="0" name="Bone Splinters"/>
+        <card number="2" price="0" name="Oblivion Strike"/>
+        <card number="1" price="0" name="Vines of the Recluse"/>
+        <card number="1" price="0" name="Altar's Reap"/>
+        <card number="2" price="0" name="Corpse Churn"/>
+        <card number="1" price="0" name="Grasp of Darkness"/>
+        <card number="2" price="0" name="Natural Connection"/>
+        <card number="1" price="0" name="Pulse of Murasa"/>
+        <card number="1" price="0" name="Blighted Woodland"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="2" price="0" name="Fertile Thicket"/>
+        <card number="4" price="0" name="Wastes"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="9" price="0" name="Forest"/>
+    </zone>
+</cockatrice_deck>

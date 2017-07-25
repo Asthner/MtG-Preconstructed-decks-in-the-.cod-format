@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Haze of Spores</deckname>
+    <comments>Masters Edition II (MTGO)
+</comments>
+    <zone name="main">
+        <card number="21" name="Forest"/>
+        <card number="2" name="Havenwood Battleground"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Elvish Farmer"/>
+        <card number="3" name="Feral Thallid"/>
+        <card number="1" name="Folk of the Pines"/>
+        <card number="2" name="Fyndhorn Elves"/>
+        <card number="1" name="Kaysa"/>
+        <card number="1" name="Singing Tree"/>
+        <card number="1" name="Spectral Bears"/>
+        <card number="2" name="Spore Flower"/>
+        <card number="4" name="Thallid"/>
+        <card number="3" name="Thallid Devourer"/>
+        <card number="3" name="Thorn Thallid"/>
+        <card number="2" name="Woolly Spider"/>
+        <card number="1" name="Wyluli Wolf"/>
+        <card number="1" name="Yavimaya Ancients"/>
+        <card number="2" name="Aeolipile"/>
+        <card number="2" name="Skull Catapult"/>
+        <card number="1" name="Whirling Catapult"/>
+        <card number="1" name="Night Soil"/>
+        <card number="1" name="Fungal Bloom"/>
+        <card number="1" name="Forbidden Lore"/>
+        <card number="1" name="Giant Growth"/>
+        <card number="1" name="Spore Cloud"/>
+    </zone>
+</cockatrice_deck>

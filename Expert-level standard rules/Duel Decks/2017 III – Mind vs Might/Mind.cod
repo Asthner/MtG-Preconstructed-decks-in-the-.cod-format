@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mind</deckname>
+    <comments>Duel Decks: Mind vs Might</comments>
+    <zone name="main">
+        <card number="1" name="Jhoira of the Ghitu"/>
+        <card number="2" name="Goblin Electromancer"/>
+        <card number="2" name="Young Pyromancer"/>
+        <card number="1" name="Jori En, Ruin Diver"/>
+        <card number="1" name="Nivix Cyclops"/>
+        <card number="1" name="Spellheart Chimera"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Sage-Eye Avengers"/>
+        <card number="1" name="Nucklavee"/>
+        <card number="1" name="Deep-Sea Kraken"/>
+        <card number="1" name="The Unspeakable"/>
+        <card number="1" name="Grapeshot"/>
+        <card number="3" name="Rift Bolt"/>
+        <card number="2" name="Empty the Warrens"/>
+        <card number="1" name="Temporal Fissure"/>
+        <card number="1" name="Shivan Meteor"/>
+        <card number="1" name="Mind's Desire"/>
+        <card number="1" name="Volcanic Vision"/>
+        <card number="1" name="Beacon of Tomorrows"/>
+        <card number="1" name="Quicken"/>
+        <card number="3" name="Reach Through Mists"/>
+        <card number="2" name="Peer Through Depths"/>
+        <card number="2" name="Snap"/>
+        <card number="1" name="Desperate Ritual"/>
+        <card number="2" name="Sift Through Sands"/>
+        <card number="1" name="Firemind's Foresight"/>
+        <card number="4" name="Swiftwater Cliffs"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

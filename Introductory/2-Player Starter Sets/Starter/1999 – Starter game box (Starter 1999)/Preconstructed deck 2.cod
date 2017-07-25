@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 2</deckname>
+    <comments>Starter 1999 game box
+</comments>
+    <zone name="main">
+        <card number="8" name="Island"/>
+        <card number="8" name="Plains"/>
+        <card number="2" name="Eager Cadet"/>
+        <card number="1" name="Giant Octopus"/>
+        <card number="2" name="Knight Errant"/>
+        <card number="2" name="Merfolk of the Pearl Trident"/>
+        <card number="2" name="Royal Falcon"/>
+        <card number="2" name="Sea Eagle"/>
+        <card number="1" name="Vizzerdrix"/>
+        <card number="2" name="Wild Griffin"/>
+        <card number="2" name="Wind Drake"/>
+        <card number="2" name="Angelic Blessing"/>
+        <card number="2" name="Breath of Life"/>
+        <card number="2" name="Eye Spy"/>
+        <card number="2" name="Time Ebb"/>
+    </zone>
+</cockatrice_deck>

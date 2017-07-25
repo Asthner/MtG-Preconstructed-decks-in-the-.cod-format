@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Time Curse</deckname>
+    <comments>Starter 1999 theme deck</comments>
+    <zone name="main">
+        <card number="17" price="0" name="Island"/>
+        <card number="2" price="0" name="Air Elemental"/>
+        <card number="3" price="0" name="Ingenious Thief"/>
+        <card number="2" price="0" name="Giant Octopus"/>
+        <card number="3" price="0" name="Wind Drake"/>
+        <card number="2" price="0" name="Counterspell"/>
+        <card number="1" price="0" name="Exhaustion"/>
+        <card number="2" price="0" name="Extinguish"/>
+        <card number="1" price="0" name="Ransack"/>
+        <card number="3" price="0" name="Remove Soul"/>
+        <card number="1" price="0" name="Time Warp"/>
+        <card number="2" price="0" name="Touch of Brilliance"/>
+        <card number="1" price="0" name="Undo"/>
+    </zone>
+</cockatrice_deck>

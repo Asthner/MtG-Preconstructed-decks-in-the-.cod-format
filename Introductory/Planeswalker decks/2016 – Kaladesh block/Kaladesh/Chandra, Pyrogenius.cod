@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Chandra, Pyrogenius</deckname>
+    <comments>Kaladesh planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Chandra, Pyrogenius"/>
+        <card number="1" price="0" name="Speedway Fanatic"/>
+        <card number="1" price="0" name="Gearshift Ace"/>
+        <card number="2" price="0" name="Trusty Companion"/>
+        <card number="2" price="0" name="Veteran Motorist"/>
+        <card number="1" price="0" name="Weldfast Monitor"/>
+        <card number="3" price="0" name="Renegade Firebrand"/>
+        <card number="2" price="0" name="Spireside Infiltrator"/>
+        <card number="1" price="0" name="Brazen Scourge"/>
+        <card number="2" price="0" name="Aerial Responder"/>
+        <card number="1" price="0" name="Snare Thopter"/>
+        <card number="1" price="0" name="Skyswirl Harrier"/>
+        <card number="1" price="0" name="Cathartic Reunion"/>
+        <card number="2" price="0" name="Liberating Combustion"/>
+        <card number="2" price="0" name="Built to Last"/>
+        <card number="4" price="0" name="Flame Lash"/>
+        <card number="1" price="0" name="Fateful Showdown"/>
+        <card number="2" price="0" name="Sky Skiff"/>
+        <card number="2" price="0" name="Renegade Freighter"/>
+        <card number="1" price="0" name="Bomat Bazaar Barge"/>
+        <card number="1" price="0" name="Fleetwheel Cruiser"/>
+        <card number="1" price="0" name="Ovalchase Dragster"/>
+        <card number="4" price="0" name="Stone Quarry"/>
+        <card number="11" price="0" name="Mountain"/>
+        <card number="10" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

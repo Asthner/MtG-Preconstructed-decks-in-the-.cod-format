@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nissa</deckname>
+    <comments>Nissa vs Ob Nixilis duel deck</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Nissa, Voice of Zendikar"/>
+        <card number="2" price="0" name="Scythe Leopard"/>
+        <card number="2" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Oran-Rief Invoker"/>
+        <card number="2" price="0" name="Thornweald Archer"/>
+        <card number="1" price="0" name="Nissa's Chosen"/>
+        <card number="2" price="0" name="Citanul Woodreaders"/>
+        <card number="2" price="0" name="Civic Wayfinder"/>
+        <card number="1" price="0" name="Fertilid"/>
+        <card number="2" price="0" name="Gilt-Leaf Seer"/>
+        <card number="1" price="0" name="Wood Elves"/>
+        <card number="2" price="0" name="Briarhorn"/>
+        <card number="1" price="0" name="Saddleback Lagac"/>
+        <card number="2" price="0" name="Jaddi Lifestrider"/>
+        <card number="1" price="0" name="Thicket Elemental"/>
+        <card number="2" price="0" name="Woodborn Behemoth"/>
+        <card number="1" price="0" name="Oran-Rief Hydra"/>
+        <card number="1" price="0" name="Cloudthresher"/>
+        <card number="1" price="0" name="Oakgnarl Warrior"/>
+        <card number="1" price="0" name="Walker of the Grove"/>
+        <card number="1" price="0" name="Gaea's Blessing"/>
+        <card number="1" price="0" name="Seek the Horizon"/>
+        <card number="1" price="0" name="Crop Rotation"/>
+        <card number="2" price="0" name="Vines of the Recluse"/>
+        <card number="1" price="0" name="Natural Connection"/>
+        <card number="1" price="0" name="Abundance"/>
+        <card number="2" price="0" name="Fertile Thicket"/>
+        <card number="2" price="0" name="Khalni Garden"/>
+        <card number="1" price="0" name="Mosswort Bridge"/>
+        <card number="1" price="0" name="Treetop Village"/>
+        <card number="18" price="0" name="Forest"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Stalwart Unity</deckname>
+    <comments>Commander 2016
+</comments>
+    <zone name="main">
+        <card number="1" name="Veteran Explorer"/>
+        <card number="1" name="Humble Defector"/>
+        <card number="1" name="Hushwing Gryff"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Gwafa Hazid, Profiteer"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Akroan Horse"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Horizon Chimera"/>
+        <card number="1" name="Zedruu the Greathearted"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
+        <card number="1" name="Realm Seekers"/>
+        <card number="1" name="Rubblehulk"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Blazing Archon"/>
+        <card number="1" name="Minds Aglow"/>
+        <card number="1" name="Collective Voyage"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Wave of Reckoning"/>
+        <card number="1" name="Reverse the Sands"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Reins of Power"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Empyrial Plate"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Temple Bell"/>
+        <card number="1" name="Assault Suit"/>
+        <card number="1" name="Venser's Journal"/>
+        <card number="1" name="Keening Stone"/>
+        <card number="1" name="Oath of Druids"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Rites of Flourishing"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Lurking Predators"/>
+        <card number="1" name="Hoofprints of the Stag"/>
+        <card number="1" name="Orzhov Advokist"/>
+        <card number="1" name="Ludevic, Necro-Alchemist"/>
+        <card number="1" name="Selfless Squire"/>
+        <card number="1" name="Sidar Kondo of Jamuraa"/>
+        <card number="1" name="Kraum, Ludevic's Opus"/>
+        <card number="1" name="Prismatic Geoscope"/>
+        <card number="1" name="Evolutionary Escalation"/>
+        <card number="1" name="Benefactor's Draught"/>
+        <card number="1" name="Entrapment Maneuver"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Migratory Route"/>
+        <card number="1" name="Seeds of Renewal"/>
+        <card number="1" name="Treacherous Terrain"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Transguild Promenade"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="5" name="Mountain"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Command Tower"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kynaios and Tiro of Meletis"/>
+    </zone>
+</cockatrice_deck>

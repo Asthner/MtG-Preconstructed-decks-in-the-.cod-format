@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Concerted Effort</deckname>
+    <comments>Oath of the Gatewatch intro pack</comments>
+    <zone name="side">
+        <card number="2" price="0" name="Cliffside Lookout"/>
+        <card number="2" price="0" name="Expedition Envoy"/>
+        <card number="2" price="0" name="Kitesail Scout"/>
+        <card number="1" price="0" name="Oran-Rief Invoker"/>
+        <card number="2" price="0" name="Kor Castigator"/>
+        <card number="2" price="0" name="Makindi Aeronaut"/>
+        <card number="2" price="0" name="Kor Sky Climber"/>
+        <card number="2" price="0" name="Shadow Glider"/>
+        <card number="2" price="0" name="Joraga Auxiliary"/>
+        <card number="1" price="0" name="Veteran Warleader"/>
+        <card number="1" price="0" name="Saddleback Lagac"/>
+        <card number="2" price="0" name="Relief Captain"/>
+        <card number="1" price="0" name="Steppe Glider"/>
+        <card number="2" price="0" name="Expedition Raptor"/>
+        <card number="1" price="0" name="Angel of Renewal"/>
+        <card number="1" price="0" name="Gladehart Cavalry"/>
+    </zone>
+    <zone name="main">
+        <card number="2" price="0" name="Shoulder to Shoulder"/>
+        <card number="1" price="0" name="Allied Reinforcements"/>
+        <card number="2" price="0" name="Lead by Example"/>
+        <card number="1" price="0" name="Immolating Glare"/>
+        <card number="1" price="0" name="Mighty Leap"/>
+        <card number="1" price="0" name="Iona's Blessing"/>
+        <card number="2" price="0" name="Isolation Zone"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Tranquil Expanse"/>
+        <card number="7" price="0" name="Forest"/>
+        <card number="15" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

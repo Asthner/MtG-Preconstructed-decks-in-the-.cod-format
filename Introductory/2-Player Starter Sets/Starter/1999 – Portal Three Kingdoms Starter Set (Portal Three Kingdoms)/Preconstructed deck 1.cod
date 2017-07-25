@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 1</deckname>
+    <comments>Portal Three Kingdoms Starter Set
+</comments>
+    <zone name="main">
+        <card number="3" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Independent Troops"/>
+        <card number="1" name="Meng Huo's Horde"/>
+        <card number="1" name="Mountain Bandit"/>
+        <card number="1" name="Renegade Troops"/>
+        <card number="1" name="Return to Battle"/>
+        <card number="1" name="Trained Jackal"/>
+        <card number="1" name="Wei Elite Companions"/>
+        <card number="1" name="Wei Infantry"/>
+        <card number="1" name="Wei Scout"/>
+        <card number="1" name="Wei Strike Force"/>
+        <card number="1" name="Yellow Scarves Troops"/>
+        <card number="1" name="Zodiac Dog"/>
+        <card number="1" name="Zodiac Monkey"/>
+        <card number="1" name="Coercion"/>
+        <card number="1" name="Deception"/>
+        <card number="1" name="Fire Ambush"/>
+        <card number="1" name="Ghostly Visit"/>
+    </zone>
+</cockatrice_deck>

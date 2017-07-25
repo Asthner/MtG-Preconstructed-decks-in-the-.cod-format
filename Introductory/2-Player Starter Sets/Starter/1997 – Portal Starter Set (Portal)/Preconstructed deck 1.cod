@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 1</deckname>
+    <comments>Portal Starter Set</comments>
+    <zone name="main">
+        <card number="6" name="Plains"/>
+        <card number="6" name="Mountains"/>
+        <card number="3" name="Forests"/>
+        <card number="1" name="Defiant Stand"/>
+        <card number="1" name="Devoted Hero"/>
+        <card number="1" name="Armored Pegasus"/>
+        <card number="1" name="Regal Unicorn"/>
+        <card number="1" name="Sacred Nectar"/>
+        <card number="1" name="Spotted Griffin"/>
+        <card number="1" name="Venerable Monk"/>
+        <card number="1" name="Warrior's Charge"/>
+        <card number="1" name="Anaconda"/>
+        <card number="1" name="Gorilla Warrior"/>
+        <card number="1" name="Grizzly Bears"/>
+        <card number="1" name="Untamed Wilds"/>
+        <card number="1" name="Blaze"/>
+        <card number="1" name="Fire Imp"/>
+        <card number="1" name="Hill Giant"/>
+        <card number="1" name="Hulking Goblin"/>
+        <card number="1" name="Lava Axe"/>
+        <card number="1" name="Lizard Warrior"/>
+        <card number="1" name="Raging Goblin"/>
+        <card number="1" name="Volcanic Hammer"/>
+    </zone>
+</cockatrice_deck>

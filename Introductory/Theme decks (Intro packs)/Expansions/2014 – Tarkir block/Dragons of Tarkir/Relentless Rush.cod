@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Relentless Rush</deckname>
+    <comments>Dragons of Tarkir intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="13" price="0" name="Mountain"/>
+        <card number="11" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Lightning Berserker"/>
+        <card number="2" price="0" name="Kolaghan Aspirant"/>
+        <card number="3" price="0" name="Kolaghan Skirmisher"/>
+        <card number="2" price="0" name="Kolaghan Forerunners"/>
+        <card number="2" price="0" name="Screamreach Brawler"/>
+        <card number="2" price="0" name="Ambuscade Shaman"/>
+        <card number="2" price="0" name="Warbringer"/>
+        <card number="2" price="0" name="Sprinting Warbrute"/>
+        <card number="1" price="0" name="Boltwing Marauder"/>
+        <card number="2" price="0" name="Swift Warkite"/>
+        <card number="1" price="0" name="Foul-Tongue Shriek"/>
+        <card number="2" price="0" name="Twin Bolt"/>
+        <card number="1" price="0" name="Foul-Tongue Invocation"/>
+        <card number="2" price="0" name="Flatten"/>
+        <card number="1" price="0" name="Foul Renewal"/>
+        <card number="1" price="0" name="Duress"/>
+        <card number="2" price="0" name="Tormenting Voice"/>
+        <card number="1" price="0" name="Defeat"/>
+        <card number="2" price="0" name="Impact Tremors"/>
+        <card number="1" price="0" name="Kolaghan Monument"/>
+        <card number="1" price="0" name="Vial of Dragonfire"/>
+    </zone>
+</cockatrice_deck>

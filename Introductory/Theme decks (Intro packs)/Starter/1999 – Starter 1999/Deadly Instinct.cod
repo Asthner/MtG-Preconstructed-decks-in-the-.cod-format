@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deadly Instinct</deckname>
+    <comments>Starter 1999 theme deck</comments>
+    <zone name="main">
+        <card number="17" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Dakmor Lancer"/>
+        <card number="2" price="0" name="Dakmor Scorpion"/>
+        <card number="2" price="0" name="Feral Shadow"/>
+        <card number="2" price="0" name="Gravedigger"/>
+        <card number="2" price="0" name="Hollow Dogs"/>
+        <card number="2" price="0" name="Ravenous Rats"/>
+        <card number="2" price="0" name="Serpent Warrior"/>
+        <card number="1" price="0" name="Ancient Craving"/>
+        <card number="2" price="0" name="Chorus of Woe"/>
+        <card number="1" price="0" name="Dakmor Plague"/>
+        <card number="3" price="0" name="Hand of Death"/>
+        <card number="2" price="0" name="Mind Rot"/>
+        <card number="1" price="0" name="Soul Feast"/>
+    </zone>
+</cockatrice_deck>

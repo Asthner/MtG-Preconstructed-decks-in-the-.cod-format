@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Cursed</deckname>
+    <comments>Blessed vs Cursed duel deck</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Diregraf Ghoul"/>
+        <card number="1" price="0" name="Gravecrawler"/>
+        <card number="2" price="0" name="Butcher Ghoul"/>
+        <card number="3" price="0" name="Screeching Skaab"/>
+        <card number="1" price="0" name="Unbreathing Horde"/>
+        <card number="1" price="0" name="Scrapskin Drake"/>
+        <card number="2" price="0" name="Ghoulraiser"/>
+        <card number="2" price="0" name="Stitched Drake"/>
+        <card number="2" price="0" name="Diregraf Captain"/>
+        <card number="1" price="0" name="Abattoir Ghoul"/>
+        <card number="1" price="0" name="Driver of the Dead"/>
+        <card number="1" price="0" name="Falkenrath Noble"/>
+        <card number="1" price="0" name="Makeshift Mauler"/>
+        <card number="1" price="0" name="Havengul Runebinder"/>
+        <card number="1" price="0" name="Relentless Skaabs"/>
+        <card number="1" price="0" name="Harvester of Souls"/>
+        <card number="1" price="0" name="Tooth Collector"/>
+        <card number="1" price="0" name="Mindwrack Demon"/>
+        <card number="1" price="0" name="Appetite for Brains"/>
+        <card number="1" price="0" name="Sever the Bloodline"/>
+        <card number="1" price="0" name="Barter in Blood"/>
+        <card number="1" price="0" name="Dread Return"/>
+        <card number="2" price="0" name="Moan of the Unhallowed"/>
+        <card number="1" price="0" name="Human Frailty"/>
+        <card number="1" price="0" name="Victim of Night"/>
+        <card number="1" price="0" name="Tribute to Hunger"/>
+        <card number="1" price="0" name="Forbidden Alchemy"/>
+        <card number="1" price="0" name="Compelling Deterrence"/>
+        <card number="1" price="0" name="Cobbled Wings"/>
+        <card number="4" price="0" name="Dismal Backwater"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="8" price="0" name="Island"/>
+    </zone>
+</cockatrice_deck>

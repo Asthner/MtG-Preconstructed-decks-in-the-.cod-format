@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kazz's Deck (Combined)</deckname>
+    <comments>Rivals Quick Start Set</comments>
+    <zone name="main">
+        <card number="4" name="Island"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Swamp"/>
+        <card number="2" name="Murk Dwellers"/>
+        <card number="2" name="Scathe Zombies"/>
+        <card number="2" name="Zephyr Falcon"/>
+        <card number="1" name="Hill Giant"/>
+        <card number="1" name="Ironclaw Orcs"/>
+        <card number="1" name="Lost Soul"/>
+        <card number="1" name="Merfolk of the Pearl Trident"/>
+        <card number="1" name="Mons's Goblin Raiders"/>
+        <card number="2" name="Unsummon"/>
+        <card number="1" name="Terror"/>
+        <card number="1" name="Twiddle"/>
+        <card number="2" name="Disintegrate"/>
+        <card number="1" name="Pyrotechnics"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Swamp"/>
+        <card number="2" name="Vampire Bats"/>
+        <card number="1" name="Orcish Artillery"/>
+        <card number="1" name="Sorceress Queen"/>
+        <card number="1" name="Battering Ram"/>
+        <card number="1" name="Clockwork Beast"/>
+        <card number="1" name="Jayemdae Tome"/>
+        <card number="1" name="Power Sink"/>
+        <card number="1" name="Detonate"/>
+        <card number="1" name="Fireball"/>
+        <card number="1" name="Cursed Land"/>
+        <card number="1" name="Energy Flux"/>
+        <card number="1" name="Feedback"/>
+        <card number="1" name="Orcish Oriflamme"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nicol Bolas, the Deceiver</deckname>
+    <comments>Hour of Devastation planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" name="Nicol Bolas, the Deceiver"/>
+        <card number="3" name="Wasp of the Bitter End"/>
+        <card number="3" name="Khenra Eternal"/>
+        <card number="2" name="Burning-Fist Minotaur"/>
+        <card number="2" name="Aerial Guide"/>
+        <card number="2" name="Eternal of Harsh Truths"/>
+        <card number="1" name="Ammit Eternal"/>
+        <card number="2" name="Marauding Boneslasher"/>
+        <card number="4" name="Zealot of the God-Pharaoh"/>
+        <card number="2" name="Manticore Eternal"/>
+        <card number="2" name="Supernatural Stamina"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="2" name="Open Fire"/>
+        <card number="3" name="Final Reward"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="2" name="Visage of Bolas"/>
+        <card number="4" name="Cinder Barrens"/>
+        <card number="4" name="Crypt of the Eternals"/>
+        <card number="5" name="Island"/>
+        <card number="6" name="Swamp"/>
+        <card number="7" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

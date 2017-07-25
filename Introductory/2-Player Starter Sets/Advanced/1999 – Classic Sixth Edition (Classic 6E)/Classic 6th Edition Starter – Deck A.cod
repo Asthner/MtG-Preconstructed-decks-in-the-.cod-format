@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Classic 6th Edition Starter – Deck A</deckname>
+    <comments>2-Player Starter Set</comments>
+    <zone name="main">
+        <card number="7" price="0" name="Forest"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Ardent Militia"/>
+        <card number="1" price="0" name="Blood Pet"/>
+        <card number="1" price="0" name="Drudge Skeletons"/>
+        <card number="1" price="0" name="Giant Spider"/>
+        <card number="1" price="0" name="Gravebane Zombie"/>
+        <card number="1" price="0" name="Hidden Horror"/>
+        <card number="1" price="0" name="Llanowar Elves"/>
+        <card number="1" price="0" name="Mischievous Poltergeist"/>
+        <card number="1" price="0" name="Panther Warriors"/>
+        <card number="1" price="0" name="Samite Healer"/>
+        <card number="1" price="0" name="Scaled Wurm"/>
+        <card number="1" price="0" name="Trained Armodon"/>
+        <card number="1" price="0" name="Obsianus Golem"/>
+        <card number="1" price="0" name="Rod of Ruin"/>
+        <card number="1" price="0" name="Call of the Wild"/>
+        <card number="1" price="0" name="Enfeeblement"/>
+        <card number="1" price="0" name="Giant Growth"/>
+        <card number="1" price="0" name="Healing Salve"/>
+        <card number="1" price="0" name="Terror"/>
+        <card number="1" price="0" name="Warrior's Honor"/>
+        <card number="1" price="0" name="Creeping Mold"/>
+        <card number="1" price="0" name="Raise Dead"/>
+        <card number="1" price="0" name="Rampant Growth"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck</deckname>
+    <comments>Sample Deck 2017</comments>
+    <zone name="main">
+        <card number="1" name="Shivan Dragon"/>
+        <card number="2" name="Falkenrath Reaver"/>
+        <card number="1" name="Thundering Giant"/>
+        <card number="2" name="Frontline Rebel"/>
+        <card number="1" name="Brazen Scourge"/>
+        <card number="2" name="Terror of the Fairgrounds"/>
+        <card number="1" name="Hyena Pack"/>
+        <card number="1" name="Wrangle"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Hungry Flames"/>
+        <card number="2" name="Shock"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Flame Lash"/>
+        <card number="13" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

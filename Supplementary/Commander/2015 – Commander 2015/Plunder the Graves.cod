@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Plunder the Graves</deckname>
+    <comments>Commander 2015</comments>
+    <zone name="main">
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Viridian Emissary"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Viridian Zealot"/>
+        <card number="1" name="Korozda Guildmage"/>
+        <card number="1" name="Lotleth Troll"/>
+        <card number="1" name="Blood Bairn"/>
+        <card number="1" name="Phyrexian Rager"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Corpse Augur"/>
+        <card number="1" name="Centaur Vinecrasher"/>
+        <card number="1" name="Bloodspore Thrinax"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Indrik Stomphowler"/>
+        <card number="1" name="Kessig Cagebreakers"/>
+        <card number="1" name="Banshee of the Dread Choir"/>
+        <card number="1" name="Phyrexian Plaguelord"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Mycoloth"/>
+        <card number="1" name="Mazirek, Kraul Death Priest"/>
+        <card number="1" name="Vulturous Zombie"/>
+        <card number="1" name="Great Oak Guardian"/>
+        <card number="1" name="Champion of Stray Souls"/>
+        <card number="1" name="Extractor Demon"/>
+        <card number="1" name="Thief of Blood"/>
+        <card number="1" name="Pathbreaker Ibex"/>
+        <card number="1" name="Cloudthresher"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Eater of Hope"/>
+        <card number="1" name="Scourge of Nel Toth"/>
+        <card number="1" name="Caller of the Pack"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Verdant Force"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Primal Growth"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Sever the Bloodline"/>
+        <card number="1" name="Barter in Blood"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Spider Spawning"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Dread Summons"/>
+        <card number="1" name="Altar's Reap"/>
+        <card number="1" name="Tribute to the Wild"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Wretched Confluence"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Bonehoard"/>
+        <card number="1" name="Eldrazi Monument"/>
+        <card number="1" name="Diabolic Servitude"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Grim Backwoods"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Polluted Mire"/>
+        <card number="1" name="Slippery Karst"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="13" name="Swamp"/>
+        <card number="12" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Meren of Clan Nel Toth"/>
+    </zone>
+</cockatrice_deck>

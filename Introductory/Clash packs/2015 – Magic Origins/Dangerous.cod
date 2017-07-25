@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dangerous</deckname>
+    <comments>Magic Origins clash pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Sandsteppe Citadel"/>
+        <card number="2" price="0" name="Blossoming Sands"/>
+        <card number="2" price="0" name="Jungle Hollow"/>
+        <card number="2" price="0" name="Scoured Barrens"/>
+        <card number="6" price="0" name="Forest"/>
+        <card number="6" price="0" name="Swamp"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="1" price="0" name="Dromoka, the Eternal"/>
+        <card number="2" price="0" name="Ainok Bond-Kin"/>
+        <card number="2" price="0" name="Disowned Ancestor"/>
+        <card number="3" price="0" name="Lightwalker"/>
+        <card number="1" price="0" name="Anafenza, Kin-Tree Spirit"/>
+        <card number="1" price="0" name="Avatar of the Resolute"/>
+        <card number="2" price="0" name="Abzan Falconer"/>
+        <card number="1" price="0" name="Tuskguard Captain"/>
+        <card number="1" price="0" name="Abzan Battle Priest"/>
+        <card number="1" price="0" name="Mer-Ek Nightblade"/>
+        <card number="1" price="0" name="Longshot Squad"/>
+        <card number="1" price="0" name="Siege Rhino"/>
+        <card number="1" price="0" name="Elite Scaleguard"/>
+        <card number="1" price="0" name="Scale Blessing"/>
+        <card number="2" price="0" name="Dromoka's Gift"/>
+        <card number="2" price="0" name="Ultimate Price"/>
+        <card number="2" price="0" name="Cached Defenses"/>
+        <card number="2" price="0" name="Incremental Growth"/>
+        <card number="2" price="0" name="Map the Wastes"/>
+        <card number="1" price="0" name="Abzan Ascendancy"/>
+        <card number="1" price="0" name="Ancestral Vengeance"/>
+        <card number="1" price="0" name="Citadel Siege"/>
+        <card number="1" price="0" name="Debilitating Injury"/>
+        <card number="1" price="0" name="Suspension Field"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck</deckname>
+    <comments>Sample Deck 2017
+</comments>
+    <zone name="main">
+        <card number="1" name="Nightmare"/>
+        <card number="2" name="Bloodhunter Bat"/>
+        <card number="1" name="Sengir Vampire"/>
+        <card number="1" name="Alley Strangler"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Cursed Minotaur"/>
+        <card number="1" name="Dune Beetle"/>
+        <card number="2" name="Tattered Mummy"/>
+        <card number="2" name="Certain Death"/>
+        <card number="1" name="Raise Dead"/>
+        <card number="2" name="Essence Extraction"/>
+        <card number="2" name="Untamed Hunger"/>
+        <card number="13" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

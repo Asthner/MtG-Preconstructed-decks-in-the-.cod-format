@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Liliana, Death Wielder</deckname>
+    <comments>Amonkhet planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" name="Liliana, Death Wielder"/>
+        <card number="1" name="Festering Mummy"/>
+        <card number="2" name="Dune Beetle"/>
+        <card number="4" name="Tattered Mummy"/>
+        <card number="1" name="Channeler Initiate"/>
+        <card number="2" name="Baleful Ammit"/>
+        <card number="3" name="Desiccated Naga"/>
+        <card number="2" name="Gravedigger"/>
+        <card number="1" name="Crocodile of the Crossing"/>
+        <card number="2" name="Giant Spider"/>
+        <card number="2" name="Decimator Beetle"/>
+        <card number="2" name="Liliana's Influence"/>
+        <card number="2" name="Splendid Agony"/>
+        <card number="1" name="Edifice of Authority"/>
+        <card number="1" name="Luxa River Shrine"/>
+        <card number="1" name="Oracle's Vault"/>
+        <card number="2" name="Trial of Ambition"/>
+        <card number="2" name="Cartouche of Ambition"/>
+        <card number="2" name="Cartouche of Strength"/>
+        <card number="1" name="Gift of Paradise"/>
+        <card number="4" name="Foul Orchard"/>
+        <card number="1" name="Grasping Dunes"/>
+        <card number="11" name="Swamp"/>
+        <card number="9" name="Forest"/>
+    </zone>
+</cockatrice_deck>

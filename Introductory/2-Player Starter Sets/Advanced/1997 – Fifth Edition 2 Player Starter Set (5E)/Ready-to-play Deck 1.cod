@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ready-to-play Deck 1</deckname>
+    <comments>Fifth Edition 2 Player Starter
+</comments>
+    <zone name="main">
+        <card number="6" name="Swamp"/>
+        <card number="6" name="Island"/>
+        <card number="1" name="Merfolk of the Pearl Trident"/>
+        <card number="1" name="Phantom Monster"/>
+        <card number="1" name="Prodigal Sorcerer"/>
+        <card number="1" name="Vodalian Soldiers"/>
+        <card number="1" name="Zephyr Falcon"/>
+        <card number="1" name="Bog Imp"/>
+        <card number="1" name="Bog Rats"/>
+        <card number="1" name="Bog Wraith"/>
+        <card number="1" name="Erg Raiders"/>
+        <card number="1" name="Frozen Shade"/>
+        <card number="1" name="Mole Worms"/>
+        <card number="1" name="Scathe Zombies"/>
+        <card number="1" name="Soul Barrier"/>
+        <card number="1" name="Unholy Strength"/>
+        <card number="1" name="Rod of Ruin"/>
+        <card number="1" name="Soul Net"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Terror"/>
+    </zone>
+</cockatrice_deck>

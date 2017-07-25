@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Weapons and Wards</deckname>
+    <comments>Eldritch Moon intro pack</comments>
+    <zone name="main">
+        <card number="2" price="0" name="Crossroads Consecrator"/>
+        <card number="2" price="0" name="Thraben Standard Bearer"/>
+        <card number="2" price="0" name="Hamlet Captain"/>
+        <card number="1" price="0" name="Sigardian Priest"/>
+        <card number="1" price="0" name="Steadfast Cathar"/>
+        <card number="1" price="0" name="Emrakul's Evangel"/>
+        <card number="2" price="0" name="Ironclad Slayer"/>
+        <card number="1" price="0" name="Militant Inquisitor"/>
+        <card number="2" price="0" name="Intrepid Provisioner"/>
+        <card number="1" price="0" name="Courageous Outrider"/>
+        <card number="2" price="0" name="Fiend Binder"/>
+        <card number="1" price="0" name="Inspiring Captain"/>
+        <card number="1" price="0" name="Ulvenwald Observer"/>
+        <card number="2" price="0" name="Subjugator Angel"/>
+        <card number="1" price="0" name="Open the Armory"/>
+        <card number="1" price="0" name="Ironwright's Cleansing"/>
+        <card number="2" price="0" name="Strength of Arms"/>
+        <card number="2" price="0" name="Cultist's Staff"/>
+        <card number="2" price="0" name="Slayer's Cleaver"/>
+        <card number="1" price="0" name="Gryff's Boon"/>
+        <card number="1" price="0" name="Choking Restraints"/>
+        <card number="1" price="0" name="Hope Against Hope"/>
+        <card number="1" price="0" name="Equestrian Skill"/>
+        <card number="2" price="0" name="Faith Unbroken"/>
+        <card number="12" price="0" name="Forest"/>
+        <card number="13" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

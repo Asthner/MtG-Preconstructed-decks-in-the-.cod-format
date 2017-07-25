@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Swarming Instinct</deckname>
+    <comments>Battle for Zendikar intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Blighted Cataract"/>
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="2" price="0" name="Skyline Cascade"/>
+        <card number="10" price="0" name="Island"/>
+        <card number="11" price="0" name="Forest"/>
+        <card number="1" price="0" name="Bane of Bala Ged"/>
+        <card number="1" price="0" name="Brood Monitor"/>
+        <card number="1" price="0" name="Desolation Twin"/>
+        <card number="1" price="0" name="Drowner of Hope"/>
+        <card number="1" price="0" name="Pilgrim's Eye"/>
+        <card number="2" price="0" name="Breaker of Armies"/>
+        <card number="2" price="0" name="Eyeless Watcher"/>
+        <card number="2" price="0" name="Kozilek's Channeler"/>
+        <card number="2" price="0" name="Tide Drifter"/>
+        <card number="3" price="0" name="Blisterpod"/>
+        <card number="3" price="0" name="Eldrazi Skyspawner"/>
+        <card number="3" price="0" name="Incubator Drone"/>
+        <card number="2" price="0" name="Hedron Archive"/>
+        <card number="3" price="0" name="Call the Scions"/>
+        <card number="1" price="0" name="Adverse Conditions"/>
+        <card number="1" price="0" name="Titan's Presence"/>
+        <card number="1" price="0" name="Unnatural Aggression"/>
+        <card number="2" price="0" name="Scour from Existence"/>
+        <card number="2" price="0" name="Spell Shrivel"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Call of Blood</deckname>
+    <comments>Battle for Zendikar intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Blighted Steppe"/>
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="2" price="0" name="Mortuary Mire"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="11" price="0" name="Plains"/>
+        <card number="1" price="0" name="Defiant Bloodlord"/>
+        <card number="1" price="0" name="Felidar Sovereign"/>
+        <card number="1" price="0" name="Hagra Sharpshooter"/>
+        <card number="1" price="0" name="Shadow Glider"/>
+        <card number="1" price="0" name="Zulaport Cutthroat"/>
+        <card number="2" price="0" name="Bloodbond Vampire"/>
+        <card number="2" price="0" name="Courier Griffin"/>
+        <card number="2" price="0" name="Drana's Emissary"/>
+        <card number="2" price="0" name="Kalastria Nightwatch"/>
+        <card number="2" price="0" name="Kitesail Scout"/>
+        <card number="2" price="0" name="Malakir Familiar"/>
+        <card number="2" price="0" name="Serene Steward"/>
+        <card number="3" price="0" name="Nirkana Assassin"/>
+        <card number="3" price="0" name="Stone Haven Medic"/>
+        <card number="2" price="0" name="Demon's Grasp"/>
+        <card number="2" price="0" name="Dutiful Return"/>
+        <card number="1" price="0" name="Roil's Retribution"/>
+        <card number="2" price="0" name="Gideon's Reproach"/>
+        <card number="2" price="0" name="Tandem Tactics"/>
+    </zone>
+</cockatrice_deck>

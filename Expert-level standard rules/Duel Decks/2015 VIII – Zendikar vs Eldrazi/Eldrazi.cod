@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Eldrazi</deckname>
+    <comments>Zendikar vs Eldrazi duel deck</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Eldrazi Temple"/>
+        <card number="2" price="0" name="Rocky Tar Pit"/>
+        <card number="3" price="0" name="Akoum Refuge"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Bloodrite Invoker"/>
+        <card number="1" price="0" name="Bloodthrone Vampire"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="1" price="0" name="Cadaver Imp"/>
+        <card number="1" price="0" name="Forerunner of Slaughter"/>
+        <card number="1" price="0" name="It That Betrays"/>
+        <card number="1" price="0" name="Magmaw"/>
+        <card number="1" price="0" name="Oblivion Sower"/>
+        <card number="1" price="0" name="Pawn of Ulamog"/>
+        <card number="1" price="0" name="Torch Slinger"/>
+        <card number="1" price="0" name="Ulamog's Crusher"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="2" price="0" name="Dominator Drone"/>
+        <card number="2" price="0" name="Heartstabber Mosquito"/>
+        <card number="2" price="0" name="Runed Servitor"/>
+        <card number="3" price="0" name="Emrakul's Hatcher"/>
+        <card number="2" price="0" name="Mind Stone"/>
+        <card number="1" price="0" name="Consume the Meek"/>
+        <card number="1" price="0" name="Induce Despair"/>
+        <card number="1" price="0" name="Smother"/>
+        <card number="1" price="0" name="Corpsehatch"/>
+        <card number="1" price="0" name="Hellion Eruption"/>
+        <card number="1" price="0" name="Marsh Casualties"/>
+        <card number="2" price="0" name="Forked Bolt"/>
+        <card number="2" price="0" name="Read the Bones"/>
+    </zone>
+</cockatrice_deck>

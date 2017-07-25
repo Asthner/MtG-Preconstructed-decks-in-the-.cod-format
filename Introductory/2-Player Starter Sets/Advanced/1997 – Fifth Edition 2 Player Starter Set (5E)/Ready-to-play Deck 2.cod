@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ready-to-play Deck 2</deckname>
+    <comments>Fifth Edition 2 Player Starter
+</comments>
+    <zone name="main">
+        <card number="3" name="Plains"/>
+        <card number="5" name="Mountain"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Pearled Unicorn"/>
+        <card number="1" name="Samite Healer"/>
+        <card number="1" name="Bird Maiden"/>
+        <card number="1" name="Dwarven Warriors"/>
+        <card number="1" name="Hill Giant"/>
+        <card number="1" name="Ironclaw Orcs"/>
+        <card number="1" name="Mons's Goblin Raiders"/>
+        <card number="1" name="Grizzly Bears"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Tarpan"/>
+        <card number="1" name="Circle of Protection: Black"/>
+        <card number="1" name="Firebreathing"/>
+        <card number="1" name="Regeneration"/>
+        <card number="1" name="Dancing Scimitar"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Righteousness"/>
+        <card number="1" name="Incinerate"/>
+        <card number="1" name="Giant Growth"/>
+    </zone>
+</cockatrice_deck>

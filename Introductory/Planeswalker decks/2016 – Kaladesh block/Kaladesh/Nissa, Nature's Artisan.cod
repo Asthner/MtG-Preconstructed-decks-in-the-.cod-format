@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nissa, Nature's Artisan</deckname>
+    <comments>Kaladesh planeswalker deck</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Nissa, Nature's Artisan"/>
+        <card number="2" price="0" name="Thriving Turtle"/>
+        <card number="2" price="0" name="Longtusk Cub"/>
+        <card number="1" price="0" name="Sage of Shaila's Claim"/>
+        <card number="2" price="0" name="Servant of the Conduit"/>
+        <card number="4" price="0" name="Terrain Elemental"/>
+        <card number="2" price="0" name="Thriving Rhino"/>
+        <card number="2" price="0" name="Janjeet Sentry"/>
+        <card number="2" price="0" name="Empyreal Voyager"/>
+        <card number="3" price="0" name="Guardian of the Great Conduit"/>
+        <card number="1" price="0" name="Bristling Hydra"/>
+        <card number="2" price="0" name="Long-Finned Skywhale"/>
+        <card number="2" price="0" name="Arborback Stomper"/>
+        <card number="1" price="0" name="Riparian Tiger"/>
+        <card number="3" price="0" name="Attune with Aether"/>
+        <card number="2" price="0" name="Verdant Crescendo"/>
+        <card number="2" price="0" name="Appetite for the Unnatural"/>
+        <card number="2" price="0" name="Malfunction"/>
+        <card number="4" price="0" name="Woodland Stream"/>
+        <card number="11" price="0" name="Forest"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="1" price="0" name="Aethersquall Ancient"/>
+    </zone>
+</cockatrice_deck>

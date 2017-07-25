@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Preconstructed deck 2</deckname>
+    <comments>Portal Second Age Starter Set</comments>
+    <zone name="main">
+        <card number="3" name="Forest"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Alaborn Trooper"/>
+        <card number="1" name="Angel of Mercy"/>
+        <card number="1" name="Bear Cub"/>
+        <card number="1" name="Golden Bear"/>
+        <card number="1" name="Screeching Drake"/>
+        <card number="1" name="Talas Air Ship"/>
+        <card number="1" name="Talas Explorer"/>
+        <card number="1" name="Talas Merchant"/>
+        <card number="1" name="Talas Scout"/>
+        <card number="1" name="Temple Acolyte"/>
+        <card number="1" name="Trokin High Guard"/>
+        <card number="1" name="Volunteer Militia"/>
+        <card number="1" name="Wild Griffin"/>
+        <card number="1" name="Bee Sting"/>
+        <card number="1" name="Path of Peace"/>
+        <card number="1" name="Theft of Dreams"/>
+        <card number="1" name="Time Ebb"/>
+    </zone>
+</cockatrice_deck>

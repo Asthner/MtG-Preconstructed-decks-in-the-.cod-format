@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Entropic Uprising</deckname>
+    <comments>Commander 2016
+</comments>
+    <zone name="main">
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Spellheart Chimera"/>
+        <card number="1" name="Academy Elite"/>
+        <card number="1" name="Gamekeeper"/>
+        <card number="1" name="Sangromancer"/>
+        <card number="1" name="Bloodbraid Elf"/>
+        <card number="1" name="Horizon Chimera"/>
+        <card number="1" name="Glint-Eye Nephilim"/>
+        <card number="1" name="Aeon Chronicler"/>
+        <card number="1" name="Guiltfeeder"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Nath of the Gilt-Leaf"/>
+        <card number="1" name="Etherium-Horn Sorcerer"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Blood Tyrant"/>
+        <card number="1" name="Wheel of Fate"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Far Wanderings"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="1" name="Reforge the Soul"/>
+        <card number="1" name="Worm Harvest"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Whims of the Fates"/>
+        <card number="1" name="Ghastly Conscription"/>
+        <card number="1" name="Volcanic Vision"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Bituminous Blast"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Waste Not"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Swamp"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Goblin Spymaster"/>
+        <card number="1" name="Vial Smasher the Fierce"/>
+        <card number="1" name="Kydele, Chosen of Kruphix"/>
+        <card number="1" name="Runehorn Hellkite"/>
+        <card number="1" name="Boompile"/>
+        <card number="1" name="Frenzied Fugue"/>
+        <card number="1" name="Ancient Excavation"/>
+        <card number="1" name="Curtains' Call"/>
+        <card number="1" name="Parting Thoughts"/>
+        <card number="1" name="Grave Upheaval"/>
+        <card number="1" name="Cruel Entertainment"/>
+        <card number="1" name="Treacherous Terrain"/>
+        <card number="1" name="Ash Barrens"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yidris, Maelstrom Wielder"/>
+    </zone>
+</cockatrice_deck>

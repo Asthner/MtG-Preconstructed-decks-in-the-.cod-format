@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Unlikely Alliance</deckname>
+    <comments>Eldritch Moon intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Sanitarium Skeleton"/>
+        <card number="2" price="0" name="Unruly Mob"/>
+        <card number="3" price="0" name="Desperate Sentry"/>
+        <card number="2" price="0" name="Skirsdag Supplicant"/>
+        <card number="1" price="0" name="Vampire Noble"/>
+        <card number="1" price="0" name="Nearheath Chaplain"/>
+        <card number="1" price="0" name="Sanctifier of Souls"/>
+        <card number="1" price="0" name="Gavony Unhallowed"/>
+        <card number="2" price="0" name="Haunted Dead"/>
+        <card number="1" price="0" name="Emissary of the Sleepless"/>
+        <card number="1" price="0" name="Morkrut Necropod"/>
+        <card number="2" price="0" name="Angelic Purge"/>
+        <card number="2" price="0" name="Spectral Reserves"/>
+        <card number="2" price="0" name="Ruthless Disposal"/>
+        <card number="1" price="0" name="Providence"/>
+        <card number="1" price="0" name="Borrowed Malevolence"/>
+        <card number="2" price="0" name="Blessed Alliance"/>
+        <card number="1" price="0" name="Repel the Abominable"/>
+        <card number="1" price="0" name="Borrowed Grace"/>
+        <card number="2" price="0" name="Lunarch Mantle"/>
+        <card number="2" price="0" name="Vessel of Ephemera"/>
+        <card number="1" price="0" name="Bound by Moonsilver"/>
+        <card number="2" price="0" name="Campaign of Vengeance"/>
+        <card number="13" price="0" name="Plains"/>
+        <card number="12" price="0" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

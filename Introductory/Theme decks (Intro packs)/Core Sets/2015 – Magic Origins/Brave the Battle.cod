@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Brave the Battle</deckname>
+    <comments>Magic Origins intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="14" price="0" name="Plains"/>
+        <card number="1" price="0" name="Heavy Infantry"/>
+        <card number="1" price="0" name="Hixus, Prison Warden"/>
+        <card number="1" price="0" name="Outland Colossus"/>
+        <card number="1" price="0" name="Patron of the Valiant"/>
+        <card number="1" price="0" name="Vastwood Gorger"/>
+        <card number="2" price="0" name="Anointer of Champions"/>
+        <card number="2" price="0" name="Citadel Castellan"/>
+        <card number="2" price="0" name="Knight of the Pilgrim's Road"/>
+        <card number="2" price="0" name="Sentinel of the Eternal Watch"/>
+        <card number="2" price="0" name="Stalwart Aven"/>
+        <card number="2" price="0" name="Topan Freeblade"/>
+        <card number="2" price="0" name="Valeron Wardens"/>
+        <card number="3" price="0" name="Cleric of the Forward Order"/>
+        <card number="1" price="0" name="Titanic Growth"/>
+        <card number="1" price="0" name="Vine Snare"/>
+        <card number="2" price="0" name="Enshrouding Mist"/>
+        <card number="2" price="0" name="Mighty Leap"/>
+        <card number="2" price="0" name="Wild Instincts"/>
+        <card number="1" price="0" name="Valor in Akros"/>
+        <card number="2" price="0" name="Grasp of the Hieromancer"/>
+        <card number="2" price="0" name="Knightly Valor"/>
+    </zone>
+</cockatrice_deck>

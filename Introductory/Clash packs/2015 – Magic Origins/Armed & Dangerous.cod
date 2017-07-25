@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Armed &amp; Dangerous</deckname>
+    <comments>Magic Origins clash pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Sandsteppe Citadel"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="2" price="0" name="Jungle Hollow"/>
+        <card number="2" price="0" name="Scoured Barrens"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Blossoming Sands"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="6" price="0" name="Plains"/>
+        <card number="1" price="0" name="Anafenza, Kin-Tree Spirit"/>
+        <card number="1" price="0" name="Avatar of the Resolute"/>
+        <card number="1" price="0" name="Citadel Castellan"/>
+        <card number="1" price="0" name="Consul's Lieutenant"/>
+        <card number="1" price="0" name="Dragon Hunter"/>
+        <card number="1" price="0" name="Dromoka Warrior"/>
+        <card number="1" price="0" name="Dromoka, the Eternal"/>
+        <card number="1" price="0" name="Honored Hierarch"/>
+        <card number="1" price="0" name="Kytheon's Irregulars"/>
+        <card number="1" price="0" name="Outland Colossus"/>
+        <card number="1" price="0" name="Seeker of the Way"/>
+        <card number="1" price="0" name="Siege Rhino"/>
+        <card number="2" price="0" name="Topan Freeblade"/>
+        <card number="2" price="0" name="Undercity Troll"/>
+        <card number="3" price="0" name="Lightwalker"/>
+        <card number="1" price="0" name="Collected Company"/>
+        <card number="1" price="0" name="Dromoka's Command"/>
+        <card number="1" price="0" name="Feat of Resistance"/>
+        <card number="1" price="0" name="Valorous Stance"/>
+        <card number="2" price="0" name="Ultimate Price"/>
+        <card number="2" price="0" name="Cached Defenses"/>
+        <card number="2" price="0" name="Incremental Growth"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Suspension Field"/>
+        <card number="1" price="0" name="Abzan Ascendancy"/>
+        <card number="1" price="0" name="Citadel Siege"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Abzan Battle Priest"/>
+        <card number="1" price="0" name="Anointer of Champions"/>
+        <card number="1" price="0" name="Debilitating Injury"/>
+        <card number="1" price="0" name="Elite Scaleguard"/>
+        <card number="1" price="0" name="Scale Blessing"/>
+        <card number="2" price="0" name="Abzan Falconer"/>
+        <card number="2" price="0" name="Disowned Ancestor"/>
+        <card number="2" price="0" name="Enshrouding Mist"/>
+        <card number="2" price="0" name="Epic Confrontation"/>
+        <card number="2" price="0" name="Mighty Leap"/>
+    </zone>
+</cockatrice_deck>

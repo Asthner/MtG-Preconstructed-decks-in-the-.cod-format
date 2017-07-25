@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Hunting Pack</deckname>
+    <comments>Magic Origins intro pack</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="11" price="0" name="Forest"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" price="0" name="Hitchclaw Recluse"/>
+        <card number="1" price="0" name="Managorger Hydra"/>
+        <card number="1" price="0" name="Skysnare Spider"/>
+        <card number="2" price="0" name="Deadbridge Shaman"/>
+        <card number="2" price="0" name="Dwynen's Elite"/>
+        <card number="2" price="0" name="Elvish Visionary"/>
+        <card number="2" price="0" name="Eyeblight Assassin"/>
+        <card number="2" price="0" name="Leaf Gilder"/>
+        <card number="2" price="0" name="Shaman of the Pack"/>
+        <card number="2" price="0" name="Sylvan Messenger"/>
+        <card number="2" price="0" name="Thornbow Archer"/>
+        <card number="2" price="0" name="Yeva's Forcemage"/>
+        <card number="3" price="0" name="Timberpack Wolf"/>
+        <card number="2" price="0" name="Might of the Masses"/>
+        <card number="1" price="0" name="Macabre Waltz"/>
+        <card number="1" price="0" name="Nightsnare"/>
+        <card number="2" price="0" name="Eyeblight Massacre"/>
+        <card number="2" price="0" name="Joraga Invocation"/>
+        <card number="1" price="0" name="Consecrated by Blood"/>
+        <card number="2" price="0" name="Weight of the Underworld"/>
+    </zone>
+</cockatrice_deck>
