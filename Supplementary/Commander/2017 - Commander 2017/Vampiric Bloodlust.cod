@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Anowon, the Ruin Sage"/>
+        <card number="1" price="0" name="Bloodlord of Vaasgoth"/>
+        <card number="1" price="0" name="Blood Baron of Vizkopa"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="1" price="0" name="Captivating Vampire"/>
+        <card number="1" price="0" name="Dark Impostor"/>
+        <card number="1" price="0" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" price="0" name="Malakir Bloodwitch"/>
+        <card number="1" price="0" name="Sangromancer"/>
+        <card number="1" price="0" name="Skeletal Vampire"/>
+        <card number="1" price="0" name="Vein Drinker"/>
+        <card number="1" price="0" name="Blood Artist"/>
+        <card number="1" price="0" name="Bloodhusk Ritualist"/>
+        <card number="1" price="0" name="Falkenrath Noble"/>
+        <card number="1" price="0" name="Pawn of Ulamog"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Rakish Heir"/>
+        <card number="1" price="0" name="Stromkirk Captain"/>
+        <card number="1" price="0" name="Tithe Drinker"/>
+        <card number="1" price="0" name="Fell the Mighty"/>
+        <card number="1" price="0" name="Blood Tribute"/>
+        <card number="1" price="0" name="Consuming Vapors"/>
+        <card number="1" price="0" name="Damnable Pact"/>
+        <card number="1" price="0" name="Merciless Eviction"/>
+        <card number="1" price="0" name="Ambition's Cost"/>
+        <card number="1" price="0" name="Read the Bones"/>
+        <card number="1" price="0" name="Syphon Mind"/>
+        <card number="1" price="0" name="Crackling Doom"/>
+        <card number="1" price="0" name="Return to Dust"/>
+        <card number="1" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Go for the Throat"/>
+        <card number="1" price="0" name="Skeletal Scrying"/>
+        <card number="1" price="0" name="Mortify"/>
+        <card number="1" price="0" name="Blade of the Bloodchief"/>
+        <card number="1" price="0" name="Door of Destinies"/>
+        <card number="1" price="0" name="Well of Lost Dreams"/>
+        <card number="1" price="0" name="Boros Signet"/>
+        <card number="1" price="0" name="Orzhov Signet"/>
+        <card number="1" price="0" name="Rakdos Signet"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Worn Powerstone"/>
+        <card number="1" price="0" name="Blind Obedience"/>
+        <card number="1" price="0" name="Black Market"/>
+        <card number="1" price="0" name="Sanguine Bond"/>
+        <card number="1" price="0" name="Underworld Connections"/>
+        <card number="1" price="0" name="Outpost Siege"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="1" price="0" name="Akoum Refuge"/>
+        <card number="1" price="0" name="Bloodfell Caves"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Boros Garrison"/>
+        <card number="1" price="0" name="Boros Guildgate"/>
+        <card number="1" price="0" name="Cinder Barrens"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Forsaken Sanctuary"/>
+        <card number="1" price="0" name="Kabira Crossroads"/>
+        <card number="1" price="0" name="Nomad Outpost"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="1" price="0" name="Orzhov Basilica"/>
+        <card number="1" price="0" name="Orzhov Guildgate"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Rakdos Guildgate"/>
+        <card number="1" price="0" name="Scoured Barrens"/>
+        <card number="1" price="0" name="Stone Quarry"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Urborg Volcano"/>
+        <card number="1" price="0" name="Wind-Scarred Crag"/>
+        <card number="1" price="0" name="Licia, Sanguine Tribune"/>
+        <card number="1" price="0" name="Mathas, Fiend Seeker"/>
+        <card number="1" price="0" name="Kindred Boon"/>
+        <card number="1" price="0" name="Teferi's Protection"/>
+        <card number="1" price="0" name="Kheru Mind-Eater"/>
+        <card number="1" price="0" name="New Blood"/>
+        <card number="1" price="0" name="Patron of the Vein"/>
+        <card number="1" price="0" name="Bloodsworn Steward"/>
+        <card number="1" price="0" name="Crimson Honor Guard"/>
+        <card number="1" price="0" name="Disrupt Decorum"/>
+        <card number="1" price="0" name="Kindred Charge"/>
+        <card number="1" price="0" name="Curse of Vitality"/>
+        <card number="1" price="0" name="Bloodline Necromancer"/>
+        <card number="1" price="0" name="Curse of Disturbance"/>
+        <card number="1" price="0" name="Heirloom Blade"/>
+        <card number="1" price="0" name="Path of Ancestry"/>
+        <card number="1" price="0" name="Edgar Markov"/>
+    </zone>
+</cockatrice_deck>
