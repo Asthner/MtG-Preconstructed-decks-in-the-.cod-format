@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Jazal Goldmane"/>
+        <card number="1" price="0" name="Jareth, Leonine Titan"/>
+        <card number="1" price="0" name="Kemba, Kha Regent"/>
+        <card number="1" price="0" name="Leonin Arbiter"/>
+        <card number="1" price="0" name="Leonin Shikari"/>
+        <card number="1" price="0" name="Raksha Golden Cub"/>
+        <card number="1" price="0" name="Seht's Tiger"/>
+        <card number="1" price="0" name="Spirit of the Hearth"/>
+        <card number="1" price="0" name="Jedit Ojanen of Efrava"/>
+        <card number="1" price="0" name="Fleecemane Lion"/>
+        <card number="1" price="0" name="Phantom Nishoba"/>
+        <card number="1" price="0" name="Leonin Relic-Warder"/>
+        <card number="1" price="0" name="Oreskos Explorer"/>
+        <card number="1" price="0" name="Sunspear Shikari"/>
+        <card number="1" price="0" name="Taj-Nar Swordsmith"/>
+        <card number="1" price="0" name="Temur Sabertooth"/>
+        <card number="1" price="0" name="Qasali Pridemage"/>
+        <card number="1" price="0" name="Divine Reckoning"/>
+        <card number="1" price="0" name="Rout"/>
+        <card number="1" price="0" name="Hunter's Prowess"/>
+        <card number="1" price="0" name="Soul's Majesty"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Harmonize"/>
+        <card number="1" price="0" name="Nissa's Pilgrimage"/>
+        <card number="1" price="0" name="White Sun's Zenith"/>
+        <card number="1" price="0" name="Condemn"/>
+        <card number="1" price="0" name="Wing Shards"/>
+        <card number="1" price="0" name="Crushing Vines"/>
+        <card number="1" price="0" name="Relic Crush"/>
+        <card number="1" price="0" name="Argentum Armor"/>
+        <card number="1" price="0" name="Grappling Hook"/>
+        <card number="1" price="0" name="Quietus Spike"/>
+        <card number="1" price="0" name="Staff of Nin"/>
+        <card number="1" price="0" name="Sword of the Animist"/>
+        <card number="1" price="0" name="Sword of Vengeance"/>
+        <card number="1" price="0" name="Behemoth Sledge"/>
+        <card number="1" price="0" name="Dreamstone Hedron"/>
+        <card number="1" price="0" name="Hedron Archive"/>
+        <card number="1" price="0" name="Hero's Blade"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Mirari's Wake"/>
+        <card number="1" price="0" name="Abundance"/>
+        <card number="1" price="0" name="Zendikar Resurgent"/>
+        <card number="1" price="0" name="Mosswort Bridge"/>
+        <card number="1" price="0" name="Stirring Wildwood"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="6" price="0" name="Forest"/>
+        <card number="1" price="0" name="Blighted Woodland"/>
+        <card number="1" price="0" name="Blossoming Sands"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Elfhame Palace"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Grasslands"/>
+        <card number="1" price="0" name="Graypelt Refuge"/>
+        <card number="1" price="0" name="Krosan Verge"/>
+        <card number="1" price="0" name="Myriad Landscape"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Saltcrusted Steppe"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Selesnya Guildgate"/>
+        <card number="1" price="0" name="Selesnya Sanctuary"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Tranquil Expanse"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Vivid Meadow"/>
+        <card number="1" price="0" name="Vivid Grove"/>
+        <card number="1" price="0" name="Nazahn, Revered Bladesmith"/>
+        <card number="1" price="0" name="Mirri, Weatherlight Duelist"/>
+        <card number="1" price="0" name="Alms Collector"/>
+        <card number="1" price="0" name="Balan, Wandering Knight"/>
+        <card number="1" price="0" name="Stalking Leonin"/>
+        <card number="1" price="0" name="Hungry Lynx"/>
+        <card number="1" price="0" name="Kindred Summons"/>
+        <card number="1" price="0" name="Qasali Slingers"/>
+        <card number="1" price="0" name="Traverse the Outlands"/>
+        <card number="1" price="0" name="Bloodforged Battle-Axe"/>
+        <card number="1" price="0" name="Hammer of Nazahn"/>
+        <card number="1" price="0" name="Curse of Vitality"/>
+        <card number="1" price="0" name="Curse of Bounty"/>
+        <card number="1" price="0" name="Heirloom Blade"/>
+        <card number="1" price="0" name="Herald's Horn"/>
+        <card number="1" price="0" name="Path of Ancestry"/>
+        <card number="1" price="0" name="Arahbo, Roar of the World"/>
+    </zone>
+</cockatrice_deck>
