@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Havengul Lich"/>
+        <card number="1" price="0" name="Marchesa, the Black Rose"/>
+        <card number="1" price="0" name="Vela the Night-Clad"/>
+        <card number="1" price="0" name="Arcanis the Omnipotent"/>
+        <card number="1" price="0" name="Azami, Lady of Scrolls"/>
+        <card number="1" price="0" name="Body Double"/>
+        <card number="1" price="0" name="Harbinger of the Tides"/>
+        <card number="1" price="0" name="Serendib Sorcerer"/>
+        <card number="1" price="0" name="Apprentice Necromancer"/>
+        <card number="1" price="0" name="Magus of the Abyss"/>
+        <card number="1" price="0" name="Puppeteer Clique"/>
+        <card number="1" price="0" name="Etherium-Horn Sorcerer"/>
+        <card number="1" price="0" name="Mercurial Chemister"/>
+        <card number="1" price="0" name="Nin, the Pain Artist"/>
+        <card number="1" price="0" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" price="0" name="Shadowmage Infiltrator"/>
+        <card number="1" price="0" name="Archaeomancer"/>
+        <card number="1" price="0" name="Merchant of Secrets"/>
+        <card number="1" price="0" name="Sea Gate Oracle"/>
+        <card number="1" price="0" name="Corpse Augur"/>
+        <card number="1" price="0" name="Izzet Chronarch"/>
+        <card number="1" price="0" name="Nivix Guildmage"/>
+        <card number="1" price="0" name="Clone Legion"/>
+        <card number="1" price="0" name="Spelltwine"/>
+        <card number="1" price="0" name="Decree of Pain"/>
+        <card number="1" price="0" name="Necromantic Selection"/>
+        <card number="1" price="0" name="Comet Storm"/>
+        <card number="1" price="0" name="Polymorphist's Jest"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Memory Plunder"/>
+        <card number="1" price="0" name="Silumgar's Command"/>
+        <card number="1" price="0" name="Into the Roil"/>
+        <card number="1" price="0" name="Opportunity"/>
+        <card number="1" price="0" name="Reality Shift"/>
+        <card number="1" price="0" name="Go for the Throat"/>
+        <card number="1" price="0" name="Cauldron Dance"/>
+        <card number="1" price="0" name="Crosis's Charm"/>
+        <card number="1" price="0" name="Rakdos Charm"/>
+        <card number="1" price="0" name="Terminate"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Commander's Sphere"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Unstable Obelisk"/>
+        <card number="1" price="0" name="Worn Powerstone"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Mystifying Maze"/>
+        <card number="10" price="0" name="Island"/>
+        <card number="6" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Crumbling Necropolis"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Grixis Panorama"/>
+        <card number="1" price="0" name="Izzet Boilerworks"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Swiftwater Cliffs"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Vivid Crag"/>
+        <card number="1" price="0" name="Vivid Creek"/>
+        <card number="1" price="0" name="Vivid Marsh"/>
+        <card number="1" price="0" name="Kess, Dissident Mage"/>
+        <card number="1" price="0" name="Mairsil, the Pretender"/>
+        <card number="1" price="0" name="Galecaster Colossus"/>
+        <card number="1" price="0" name="Magus of the Mind"/>
+        <card number="1" price="0" name="Portal Mage"/>
+        <card number="1" price="0" name="Kindred Dominance"/>
+        <card number="1" price="0" name="Vindictive Lich"/>
+        <card number="1" price="0" name="Izzet Chemister"/>
+        <card number="1" price="0" name="Shifting Shadow"/>
+        <card number="1" price="0" name="Taigam, Sidisi's Hand"/>
+        <card number="1" price="0" name="Curse of Verbosity"/>
+        <card number="1" price="0" name="Bloodline Necromancer"/>
+        <card number="1" price="0" name="Curse of Disturbance"/>
+        <card number="1" price="0" name="Curse of Opulence"/>
+        <card number="1" price="0" name="Mirror of the Forebears"/>
+        <card number="1" price="0" name="Path of Ancestry"/>
+        <card number="1" price="0" name="Inalla, Archmage Ritualist"/>
+    </zone>
+</cockatrice_deck>
