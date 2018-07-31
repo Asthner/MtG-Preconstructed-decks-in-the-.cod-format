@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Spellweaver</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Island"/>
+        <card number="2" name="Air Elemental"/>
+        <card number="2" name="Apprentice Sorcerer"/>
+        <card number="2" name="Talas Air Ship"/>
+        <card number="2" name="Talas Explorer"/>
+        <card number="3" name="Talas Merchant"/>
+        <card number="1" name="Talas Researcher"/>
+        <card number="3" name="Talas Scout"/>
+        <card number="1" name="Talas Warrior"/>
+        <card number="1" name="Exhaustion"/>
+        <card number="2" name="False Summoning"/>
+        <card number="2" name="Mystic Denial"/>
+        <card number="2" name="Time Ebb"/>
+        <card number="2" name="Touch of Brilliance"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Merfolk Opposition</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Static Orb"/>
+        <card number="2" name="Darting Merfolk"/>
+        <card number="4" name="Lord of Atlantis"/>
+        <card number="4" name="Merfolk Looter"/>
+        <card number="4" name="Merfolk of the Pearl Trident"/>
+        <card number="4" name="Vodalian Merchant"/>
+        <card number="2" name="Waterfront Bouncer"/>
+        <card number="4" name="Opposition"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Gush"/>
+        <card number="4" name="Thwart"/>
+        <card number="20" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Hibernation"/>
+        <card number="3" name="Mana Maze"/>
+        <card number="2" name="Misdirection"/>
+        <card number="2" name="Prodigal Sorcerer"/>
+        <card number="1" name="Rushing River"/>
+        <card number="2" name="Teferi's Response"/>
+        <card number="2" name="Wash Out"/>
+    </zone>
+</cockatrice_deck>

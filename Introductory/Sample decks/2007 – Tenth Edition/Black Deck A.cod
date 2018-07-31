@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Swamp"/>
+        <card number="2" name="Highway Robber"/>
+        <card number="2" name="Moonglove Winnower"/>
+        <card number="2" name="Ravenous Rats"/>
+        <card number="2" name="Smolder Initiate"/>
+        <card number="1" name="Afflict"/>
+        <card number="1" name="Corrupt"/>
+        <card number="1" name="Distress"/>
+        <card number="2" name="Essence Drain"/>
+        <card number="1" name="Gloomlance"/>
+        <card number="2" name="Mind Rot"/>
+        <card number="1" name="Contaminated Bond"/>
+        <card number="1" name="Megrim"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Cali Nightmare</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Birds of Paradise"/>
+        <card number="1" name="Cloudchaser Eagle"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="2" name="Nekrataal"/>
+        <card number="1" name="Orcish Settlers"/>
+        <card number="2" name="Spike Feeder"/>
+        <card number="1" name="Spike Weaver"/>
+        <card number="1" name="Spirit of the Night"/>
+        <card number="1" name="Thrull Surgeon"/>
+        <card number="1" name="Tradewind Rider"/>
+        <card number="2" name="Uktabi Orangutan"/>
+        <card number="1" name="Verdant Force"/>
+        <card number="4" name="Wall of Blossoms"/>
+        <card number="2" name="Wall of Roots"/>
+        <card number="2" name="Firestorm"/>
+        <card number="2" name="Lobotomy"/>
+        <card number="4" name="Recurring Nightmare"/>
+        <card number="4" name="Survival of the Fittest"/>
+        <card number="2" name="Scroll Rack"/>
+        <card number="3" name="City of Brass"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Gemstone Mine"/>
+        <card number="2" name="Karplusan Forest"/>
+        <card number="2" name="Reflecting Pool"/>
+        <card number="1" name="Swamp"/>
+        <card number="2" name="Underground River"/>
+        <card number="2" name="Undiscovered Paradise"/>
+        <card number="1" name="Volrath's Stronghold"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Boil"/>
+        <card number="2" name="Dread of Night"/>
+        <card number="3" name="Emerald Charm"/>
+        <card number="1" name="Hall of Gemstone"/>
+        <card number="2" name="Phyrexian Furnace"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="1" name="Staunch Defenders"/>
+    </zone>
+</cockatrice_deck>

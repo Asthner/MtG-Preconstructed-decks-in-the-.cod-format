@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Weenie</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Nomads en-Kor"/>
+        <card number="3" name="Paladin en-Vec"/>
+        <card number="4" name="Soltari Monk"/>
+        <card number="4" name="Soltari Priest"/>
+        <card number="1" name="Soltari Visionary"/>
+        <card number="4" name="Soul Warden"/>
+        <card number="4" name="Warrior en-Kor"/>
+        <card number="4" name="White Knight"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="4" name="Empyrial Armor"/>
+        <card number="4" name="Cataclysm"/>
+        <card number="3" name="Disenchant"/>
+        <card number="4" name="Tithe"/>
+        <card number="17" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Abeyance"/>
+        <card number="2" name="Armageddon"/>
+        <card number="3" name="Aura of Silence"/>
+        <card number="3" name="Cursed Scroll"/>
+        <card number="1" name="Disenchant"/>
+        <card number="3" name="Spirit Link"/>
+    </zone>
+</cockatrice_deck>

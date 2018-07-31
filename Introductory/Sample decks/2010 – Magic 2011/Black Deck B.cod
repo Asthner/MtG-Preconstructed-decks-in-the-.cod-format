@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Swamp"/>
+        <card number="2" name="Barony Vampire"/>
+        <card number="1" name="Blood Seeker"/>
+        <card number="2" name="Child of Night"/>
+        <card number="1" name="Pulse Tracker"/>
+        <card number="1" name="Ruthless Cullblade"/>
+        <card number="1" name="Vampire Lacerator"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="2" name="Stabbing Pain"/>
+        <card number="1" name="Urge to Feed"/>
+        <card number="2" name="Blood Tithe"/>
+        <card number="1" name="Feast of Blood"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="2" name="Unholy Strength"/>
+    </zone>
+</cockatrice_deck>

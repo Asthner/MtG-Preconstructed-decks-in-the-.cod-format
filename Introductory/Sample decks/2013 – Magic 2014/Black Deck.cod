@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Swamp"/>
+        <card number="1" name="Child of Night"/>
+        <card number="1" name="Corpse Hauler"/>
+        <card number="1" name="Deathgaze Cockatrice"/>
+        <card number="1" name="Gutter Skulk"/>
+        <card number="1" name="Nightwing Shade"/>
+        <card number="1" name="Sengir Vampire"/>
+        <card number="2" name="Undead Minotaur"/>
+        <card number="1" name="Vampire Warlord"/>
+        <card number="1" name="Wring Flesh"/>
+        <card number="1" name="Assassin's Strike"/>
+        <card number="1" name="Corrupt"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Mark of the Vampire"/>
+        <card number="2" name="Quag Sickness"/>
+        <card number="1" name="Sinister Possession"/>
+    </zone>
+</cockatrice_deck>

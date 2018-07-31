@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Prismatic Black Aggro</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Black Knight"/>
+        <card number="4" name="Choking Sands"/>
+        <card number="4" name="Contagion"/>
+        <card number="4" name="Fallen Askari"/>
+        <card number="4" name="Knight of Stromgald"/>
+        <card number="1" name="Necratog"/>
+        <card number="4" name="Nekrataal"/>
+        <card number="2" name="Shadow Guildmage"/>
+        <card number="4" name="Man-o'-War"/>
+        <card number="2" name="Uktabi Orangutan"/>
+        <card number="2" name="Earthquake"/>
+        <card number="4" name="Incinerate"/>
+        <card number="3" name="City of Brass"/>
+        <card number="3" name="Gemstone Mine"/>
+        <card number="2" name="Sulfurous Springs"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Underground River"/>
+        <card number="3" name="Undiscovered Paradise"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Disenchant"/>
+        <card number="1" name="Exile"/>
+        <card number="1" name="Honorable Passage"/>
+        <card number="3" name="Pyroblast"/>
+        <card number="2" name="Dystopia"/>
+        <card number="2" name="Ebony Charm"/>
+        <card number="2" name="Forsaken Wastes"/>
+        <card number="2" name="Hydroblast"/>
+    </zone>
+</cockatrice_deck>

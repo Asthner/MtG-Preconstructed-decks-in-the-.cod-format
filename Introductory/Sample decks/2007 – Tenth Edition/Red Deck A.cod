@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Mountain"/>
+        <card number="2" name="Boggart Forager"/>
+        <card number="2" name="Goblin Sky Raider"/>
+        <card number="2" name="Goblin Piker"/>
+        <card number="1" name="Horde of Boggarts"/>
+        <card number="2" name="Mudbrawler Cohort"/>
+        <card number="2" name="Mudbutton Torchrunner"/>
+        <card number="2" name="Raging Goblin"/>
+        <card number="1" name="Tar Pitcher"/>
+        <card number="1" name="Fists of the Anvil"/>
+        <card number="1" name="Ember Gale"/>
+        <card number="2" name="Spitting Earth"/>
+    </zone>
+</cockatrice_deck>

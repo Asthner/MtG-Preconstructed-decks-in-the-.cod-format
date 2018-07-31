@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Mountain"/>
+        <card number="2" name="Arc Runner"/>
+        <card number="1" name="Chandra's Spitfire"/>
+        <card number="1" name="Fire Servant"/>
+        <card number="2" name="Goblin Arsonist"/>
+        <card number="1" name="Prodigal Pyromancer"/>
+        <card number="1" name="Shatterskull Giant"/>
+        <card number="2" name="Chandra's Outrage"/>
+        <card number="1" name="Fling"/>
+        <card number="2" name="Lightning Bolt"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Fireball"/>
+        <card number="2" name="Lava Axe"/>
+    </zone>
+</cockatrice_deck>

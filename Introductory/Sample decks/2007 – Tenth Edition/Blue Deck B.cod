@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="1" name="Aven Windreader"/>
+        <card number="1" name="Aven Fisher"/>
+        <card number="2" name="Drowner Initiate"/>
+        <card number="2" name="Lumengrid Warden"/>
+        <card number="2" name="Merrow Witsniper"/>
+        <card number="1" name="Sea Monster"/>
+        <card number="1" name="Wall of Air"/>
+        <card number="1" name="Moonglove Extract"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Peek"/>
+        <card number="2" name="Remove Soul"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Sift"/>
+        <card number="1" name="Persuasion"/>
+    </zone>
+</cockatrice_deck>

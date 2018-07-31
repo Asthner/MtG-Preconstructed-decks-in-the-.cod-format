@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Forest"/>
+        <card number="1" name="Alpha Tyrranax"/>
+        <card number="1" name="Ezuri's Archers"/>
+        <card number="2" name="Garruk's Companion"/>
+        <card number="1" name="Gladecover Scout"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="2" name="Runeclaw Bear"/>
+        <card number="1" name="Sacred Wolf"/>
+        <card number="2" name="Tangle Mantis"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Plummet"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="1" name="Titanic Growth"/>
+        <card number="1" name="Lead the Stampede"/>
+        <card number="1" name="Lure"/>
+        <card number="1" name="Trollhide"/>
+    </zone>
+</cockatrice_deck>

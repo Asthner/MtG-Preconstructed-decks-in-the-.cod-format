@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-Black Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bottle Gnomes"/>
+        <card number="1" name="Phyrexian Negator"/>
+        <card number="3" name="Phyrexian Plaguelord"/>
+        <card number="3" name="Ravenous Rats"/>
+        <card number="2" name="Ticking Gnomes"/>
+        <card number="3" name="Cursed Scroll"/>
+        <card number="4" name="Powder Keg"/>
+        <card number="2" name="Corpse Dance"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Diabolic Edict"/>
+        <card number="1" name="Rapid Decay"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="4" name="Duress"/>
+        <card number="2" name="Stupor"/>
+        <card number="3" name="Yawgmoth's Will"/>
+        <card number="2" name="Spawning Pool"/>
+        <card number="15" name="Swamp"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bottle Gnomes"/>
+        <card number="2" name="Carrion Beetles"/>
+        <card number="1" name="Evincar's Justice"/>
+        <card number="1" name="Hatred"/>
+        <card number="2" name="Perish"/>
+        <card number="1" name="Persecute"/>
+        <card number="2" name="Phyrexian Negator"/>
+        <card number="3" name="Rapid Decay"/>
+        <card number="1" name="Sphere of Resistance"/>
+        <card number="1" name="Stromgald Cabal"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Forest"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Awakener Druid"/>
+        <card number="1" name="Baloth Woodcrasher"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="2" name="Grazing Gladehart"/>
+        <card number="1" name="Ondu Giant"/>
+        <card number="2" name="Sylvan Ranger"/>
+        <card number="2" name="Timbermaw Larva"/>
+        <card number="1" name="Vastwood Gorger"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Naturalize"/>
+        <card number="2" name="Primal Bellow"/>
+        <card number="1" name="Vastwood Zendikon"/>
+    </zone>
+</cockatrice_deck>

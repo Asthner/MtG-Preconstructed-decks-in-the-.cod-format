@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Swamp"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Nightmare"/>
+        <card number="1" name="Paragon of Open Graves"/>
+        <card number="1" name="Sengir Vampire"/>
+        <card number="2" name="Typhoid Rats"/>
+        <card number="1" name="Walking Corpse"/>
+        <card number="2" name="Witch's Familiar"/>
+        <card number="1" name="Zof Shade"/>
+        <card number="1" name="Crippling Blight"/>
+        <card number="1" name="Festergloom"/>
+        <card number="2" name="Flesh to Dust"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Staff of the Death Magus"/>
+    </zone>
+</cockatrice_deck>

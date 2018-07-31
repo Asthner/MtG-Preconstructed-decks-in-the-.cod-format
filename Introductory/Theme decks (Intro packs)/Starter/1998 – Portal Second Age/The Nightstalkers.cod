@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>The Nightstalkers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Swamp"/>
+        <card number="2" name="Abyssal Nightstalker"/>
+        <card number="2" name="Brutal Nightstalker"/>
+        <card number="2" name="Dakmor Bat"/>
+        <card number="3" name="Lurking Nightstalker"/>
+        <card number="1" name="Nightstalker Engine"/>
+        <card number="2" name="Predatory Nightstalker"/>
+        <card number="3" name="Prowling Nightstalker"/>
+        <card number="2" name="Raiding Nightstalker"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="2" name="Cruel Edict"/>
+        <card number="2" name="Hand of Death"/>
+        <card number="2" name="Mind Rot"/>
+        <card number="1" name="Return of the Nightstalkers"/>
+    </zone>
+</cockatrice_deck>

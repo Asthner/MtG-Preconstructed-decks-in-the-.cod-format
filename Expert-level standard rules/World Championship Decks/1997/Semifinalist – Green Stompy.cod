@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Stompy</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Fyndhorn Elves"/>
+        <card number="4" name="Ghazbán Ogre"/>
+        <card number="4" name="Rogue Elephant"/>
+        <card number="4" name="Quirion Ranger"/>
+        <card number="3" name="Harvest Wurm"/>
+        <card number="4" name="Spectral Bears"/>
+        <card number="2" name="Whirling Dervish"/>
+        <card number="2" name="Uktabi Orangutan"/>
+        <card number="2" name="Jolrael's Centaur"/>
+        <card number="3" name="Lhurgoyf"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="2" name="Bounty of the Hunt"/>
+        <card number="4" name="Winter Orb"/>
+        <card number="16" name="Forest"/>
+        <card number="2" name="Heart of Yavimaya"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="River Boa"/>
+        <card number="2" name="Whirling Dervish"/>
+        <card number="1" name="Uktabi Orangutan"/>
+        <card number="2" name="Crumble"/>
+        <card number="4" name="Emerald Charm"/>
+        <card number="3" name="City of Solitude"/>
+        <card number="1" name="Bounty of the Hunt"/>
+    </zone>
+</cockatrice_deck>

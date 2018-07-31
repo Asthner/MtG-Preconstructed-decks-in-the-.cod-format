@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Zone</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Anurid Brushhopper"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Flametongue Kavu"/>
+        <card number="3" name="Glory"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="4" name="Phantom Centaur"/>
+        <card number="4" name="Wild Mongrel"/>
+        <card number="4" name="Call of the Herd"/>
+        <card number="3" name="Fire // Ice"/>
+        <card number="2" name="Wax // Wane"/>
+        <card number="3" name="Living Wish"/>
+        <card number="7" name="Forest"/>
+        <card number="4" name="Brushland"/>
+        <card number="2" name="City of Brass"/>
+        <card number="4" name="Karplusan Forest"/>
+        <card number="2" name="Mountain"/>
+        <card number="3" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Genesis"/>
+        <card number="2" name="Global Ruin"/>
+        <card number="1" name="Glory"/>
+        <card number="1" name="Intrepid Hero"/>
+        <card number="1" name="Phantom Nishoba"/>
+        <card number="3" name="Reprisal"/>
+        <card number="2" name="Simoon"/>
+        <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Thornscape Battlemage"/>
+        <card number="1" name="Thunderscape Battlemage"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue-White Anti-Affinity Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Wayfarer's Bauble"/>
+        <card number="2" name="Eternal Dragon"/>
+        <card number="3" name="Exalted Angel"/>
+        <card number="3" name="Annul"/>
+        <card number="3" name="Condescend"/>
+        <card number="4" name="Mana Leak"/>
+        <card number="3" name="Rewind"/>
+        <card number="4" name="Thirst for Knowledge"/>
+        <card number="2" name="Akroma's Vengeance"/>
+        <card number="4" name="Decree of Justice"/>
+        <card number="4" name="Wrath of God"/>
+        <card number="4" name="Cloudpost"/>
+        <card number="4" name="Flooded Strand"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Plains"/>
+        <card number="3" name="Temple of the False God"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Purge"/>
+        <card number="3" name="Pacifism"/>
+        <card number="2" name="Relic Barrier"/>
+        <card number="3" name="Scrabbling Claws"/>
+        <card number="3" name="Stifle"/>
+    </zone>
+</cockatrice_deck>

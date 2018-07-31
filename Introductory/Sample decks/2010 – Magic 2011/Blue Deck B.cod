@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="1" name="Aether Adept"/>
+        <card number="1" name="Air Servant"/>
+        <card number="2" name="Augury Owl"/>
+        <card number="2" name="Azure Drake"/>
+        <card number="2" name="Cloud Elemental"/>
+        <card number="1" name="Sky Ruin Drake"/>
+        <card number="1" name="Water Servant"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="2" name="Unsummon"/>
+        <card number="1" name="Sleep"/>
+        <card number="1" name="Mind Control"/>
+        <card number="2" name="Narcolepsy"/>
+    </zone>
+</cockatrice_deck>

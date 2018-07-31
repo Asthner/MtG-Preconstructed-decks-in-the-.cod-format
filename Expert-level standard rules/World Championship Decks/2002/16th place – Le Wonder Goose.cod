@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Le Wonder Goose</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Genesis"/>
+        <card number="4" name="Nimble Mongoose"/>
+        <card number="3" name="Seton's Scout"/>
+        <card number="4" name="Werebear"/>
+        <card number="4" name="Wild Mongrel"/>
+        <card number="4" name="Wonder"/>
+        <card number="4" name="Mental Note"/>
+        <card number="1" name="Rushing River"/>
+        <card number="4" name="Breakthrough"/>
+        <card number="4" name="Careful Study"/>
+        <card number="4" name="Roar of the Wurm"/>
+        <card number="8" name="Forest"/>
+        <card number="10" name="Island"/>
+        <card number="4" name="Yavimaya Coast"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Compost"/>
+        <card number="3" name="Disrupt"/>
+        <card number="3" name="Phantom Centaur"/>
+        <card number="2" name="Ray of Revelation"/>
+        <card number="2" name="Repulse"/>
+        <card number="1" name="Rushing River"/>
+    </zone>
+</cockatrice_deck>

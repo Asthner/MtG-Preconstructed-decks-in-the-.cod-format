@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nature's Assault</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Forest"/>
+        <card number="3" name="Bear Cub"/>
+        <card number="2" name="Golden Bear"/>
+        <card number="2" name="Ironhoof Ox"/>
+        <card number="2" name="Norwood Archers"/>
+        <card number="3" name="Norwood Ranger"/>
+        <card number="2" name="Norwood Riders"/>
+        <card number="2" name="River Bear"/>
+        <card number="1" name="Sylvan Basilisk"/>
+        <card number="2" name="Wild Ox"/>
+        <card number="1" name="Alluring Scent"/>
+        <card number="1" name="Hurricane"/>
+        <card number="2" name="Monstrous Growth"/>
+        <card number="2" name="Natural Spring"/>
+    </zone>
+</cockatrice_deck>

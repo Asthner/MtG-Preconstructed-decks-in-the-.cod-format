@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red-Blue Agro Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Cloud Elemental"/>
+        <card number="4" name="Man-o'-War"/>
+        <card number="4" name="Ophidian"/>
+        <card number="3" name="Suq'Ata Lancer"/>
+        <card number="1" name="Wildfire Emissary"/>
+        <card number="2" name="Frenetic Efreet"/>
+        <card number="2" name="Abduction"/>
+        <card number="2" name="Disrupt"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Incinerate"/>
+        <card number="2" name="Pyrokinesis"/>
+        <card number="1" name="Disintegrate"/>
+        <card number="3" name="Mind Stone"/>
+        <card number="10" name="Island"/>
+        <card number="6" name="Mountain"/>
+        <card number="2" name="City of Brass"/>
+        <card number="2" name="Undiscovered Paradise"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Phyrexian Furnace"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Serrated Arrows"/>
+        <card number="4" name="Knight of the Mists"/>
+        <card number="1" name="Hydroblast"/>
+        <card number="1" name="Dissipate"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="3" name="Pillage"/>
+        <card number="1" name="Pyrokinesis"/>
+    </zone>
+</cockatrice_deck>

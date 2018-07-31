@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Squirrel Opposition</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Birds of Paradise"/>
+        <card number="3" name="Flametongue Kavu"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="4" name="Merfolk Looter"/>
+        <card number="3" name="Phantom Centaur"/>
+        <card number="4" name="Wild Mongrel"/>
+        <card number="4" name="Opposition"/>
+        <card number="3" name="Squirrel Nest"/>
+        <card number="4" name="Circular Logic"/>
+        <card number="3" name="Fire // Ice"/>
+        <card number="3" name="Deep Analysis"/>
+        <card number="8" name="Forest"/>
+        <card number="5" name="Island"/>
+        <card number="3" name="Karplusan Forest"/>
+        <card number="2" name="Shivan Reef"/>
+        <card number="4" name="Yavimaya Coast"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Flametongue Kavu"/>
+        <card number="3" name="Gainsay"/>
+        <card number="3" name="Quiet Speculation"/>
+        <card number="2" name="Ray of Revelation"/>
+        <card number="4" name="Roar of the Wurm"/>
+        <card number="2" name="Simoon"/>
+    </zone>
+</cockatrice_deck>

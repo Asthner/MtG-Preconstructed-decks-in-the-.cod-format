@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Plains"/>
+        <card number="2" name="Ajani's Pridemate"/>
+        <card number="1" name="Assault Griffin"/>
+        <card number="1" name="Dawnglare Invoker"/>
+        <card number="1" name="Goldenglow Moth"/>
+        <card number="1" name="Lone Missionary"/>
+        <card number="2" name="Pillarfield Ox"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Soul's Attendant"/>
+        <card number="1" name="Tireless Missionaries"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Safe Passage"/>
+        <card number="1" name="Solemn Offering"/>
+        <card number="1" name="Ajani's Mantra"/>
+        <card number="1" name="Nimbus Wings"/>
+        <card number="2" name="Pacifism"/>
+    </zone>
+</cockatrice_deck>

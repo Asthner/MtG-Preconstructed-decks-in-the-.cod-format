@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="1" name="Air Elemental"/>
+        <card number="2" name="Briarberry Cohort"/>
+        <card number="2" name="Cloud Elemental"/>
+        <card number="2" name="Cloud Sprite"/>
+        <card number="2" name="Sage Owl"/>
+        <card number="2" name="Snapping Drake"/>
+        <card number="1" name="Thieving Magpie"/>
+        <card number="2" name="Disperse"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Dehydration"/>
+        <card number="2" name="Robe of Mirrors"/>
+    </zone>
+</cockatrice_deck>

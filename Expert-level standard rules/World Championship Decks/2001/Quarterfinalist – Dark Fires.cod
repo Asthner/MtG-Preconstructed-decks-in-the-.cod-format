@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dark Fires</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Blastoderm"/>
+        <card number="4" name="Thornscape Battlemage"/>
+        <card number="2" name="Spiritmonger"/>
+        <card number="2" name="Flametongue Kavu"/>
+        <card number="2" name="Kavu Chameleon"/>
+        <card number="4" name="Fires of Yavimaya"/>
+        <card number="4" name="Saproling Burst"/>
+        <card number="4" name="Fire // Ice"/>
+        <card number="2" name="Urza's Rage"/>
+        <card number="8" name="Forest"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="City of Brass"/>
+        <card number="2" name="Llanowar Wastes"/>
+        <card number="2" name="Sulfurous Springs"/>
+        <card number="3" name="Karplusan Forest"/>
+        <card number="4" name="Rishadan Port"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Kavu Chameleon"/>
+        <card number="2" name="Obliterate"/>
+        <card number="3" name="Thunderscape Battlemage"/>
+        <card number="3" name="Blood Oath"/>
+        <card number="3" name="Boil"/>
+        <card number="2" name="Tangle"/>
+    </zone>
+</cockatrice_deck>

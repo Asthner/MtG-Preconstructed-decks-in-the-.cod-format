@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Anaba Bodyguard"/>
+        <card number="1" name="Axegrinder Giant"/>
+        <card number="2" name="Flamekin Brawler"/>
+        <card number="1" name="Hill Giant"/>
+        <card number="2" name="Lightning Elemental"/>
+        <card number="1" name="Prodigal Pyromancer"/>
+        <card number="1" name="Wall of Fire"/>
+        <card number="2" name="Incinerate"/>
+        <card number="1" name="Kindled Fury"/>
+        <card number="2" name="Shock"/>
+        <card number="1" name="Blaze"/>
+        <card number="2" name="Lava Axe"/>
+        <card number="1" name="Demolish"/>
+    </zone>
+</cockatrice_deck>

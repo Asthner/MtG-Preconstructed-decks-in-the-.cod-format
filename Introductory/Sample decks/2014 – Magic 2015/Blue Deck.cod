@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Island"/>
+        <card number="2" name="Frost Lynx"/>
+        <card number="2" name="Fugitive Wizard"/>
+        <card number="1" name="Mahamoti Djinn"/>
+        <card number="2" name="Nimbus of the Isles"/>
+        <card number="1" name="Paragon of Gathering Mists"/>
+        <card number="1" name="Research Assistant"/>
+        <card number="1" name="Welkin Tern"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Chronostutter"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Into the Void"/>
+        <card number="1" name="Jace's Ingenuity"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Staff of the Mind Magus"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="1" name="Azure Mage"/>
+        <card number="1" name="Belltower Sphinx"/>
+        <card number="1" name="Darkslick Drake"/>
+        <card number="2" name="Merfolk Mesmerist"/>
+        <card number="2" name="Neurok Replica"/>
+        <card number="2" name="Plated Seastrider"/>
+        <card number="1" name="Disperse"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Divination"/>
+        <card number="1" name="Mindculling"/>
+        <card number="1" name="Ice Cage"/>
+        <card number="2" name="Jace's Erasure"/>
+    </zone>
+</cockatrice_deck>

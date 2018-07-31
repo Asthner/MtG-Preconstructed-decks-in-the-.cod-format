@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Swamp"/>
+        <card number="1" name="Bloodhunter Bat"/>
+        <card number="1" name="Giant Scorpion"/>
+        <card number="1" name="Liliana's Shade"/>
+        <card number="2" name="Renegade Demon"/>
+        <card number="2" name="Tormented Soul"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="2" name="Walking Corpse"/>
+        <card number="1" name="Cower in Fear"/>
+        <card number="2" name="Murder"/>
+        <card number="1" name="Disentomb"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Crippling Blight"/>
+    </zone>
+</cockatrice_deck>

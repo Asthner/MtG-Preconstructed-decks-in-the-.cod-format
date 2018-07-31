@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White-Blue-Green Wake</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mirari"/>
+        <card number="3" name="Compulsion"/>
+        <card number="3" name="Mirari's Wake"/>
+        <card number="1" name="Circular Logic"/>
+        <card number="3" name="Cunning Wish"/>
+        <card number="4" name="Mana Leak"/>
+        <card number="3" name="Moment's Peace"/>
+        <card number="3" name="Renewed Faith"/>
+        <card number="2" name="Vengeful Dreams"/>
+        <card number="2" name="Decree of Justice"/>
+        <card number="4" name="Deep Analysis"/>
+        <card number="4" name="Wrath of God"/>
+        <card number="2" name="Elfhame Palace"/>
+        <card number="2" name="Flooded Strand"/>
+        <card number="4" name="Forest"/>
+        <card number="7" name="Island"/>
+        <card number="4" name="Krosan Verge"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Skycloud Expanse"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Anurid Brushhopper"/>
+        <card number="1" name="Circular Logic"/>
+        <card number="2" name="Exalted Angel"/>
+        <card number="1" name="Hunting Pack"/>
+        <card number="1" name="Krosan Reclamation"/>
+        <card number="1" name="Ray of Distortion"/>
+        <card number="3" name="Ray of Revelation"/>
+        <card number="1" name="Renewed Faith"/>
+        <card number="1" name="Vengeful Dreams"/>
+        <card number="1" name="Wing Shards"/>
+    </zone>
+</cockatrice_deck>

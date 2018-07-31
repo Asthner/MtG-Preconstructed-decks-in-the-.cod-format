@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Martial Law</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Plains"/>
+        <card number="2" name="Alaborn Cavalier"/>
+        <card number="2" name="Alaborn Grenadier"/>
+        <card number="3" name="Alaborn Trooper"/>
+        <card number="1" name="Alaborn Veteran"/>
+        <card number="1" name="Angel of Fury"/>
+        <card number="2" name="Armored Griffin"/>
+        <card number="2" name="Temple Acolyte"/>
+        <card number="2" name="Volunteer Militia"/>
+        <card number="3" name="Wild Griffin"/>
+        <card number="1" name="Armageddon"/>
+        <card number="2" name="Path of Peace"/>
+        <card number="2" name="Righteous Charge"/>
+        <card number="2" name="Vengeance"/>
+    </zone>
+</cockatrice_deck>

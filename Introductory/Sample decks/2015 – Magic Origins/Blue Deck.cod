@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Island"/>
+        <card number="1" name="Jhessian Thief"/>
+        <card number="1" name="Mahamoti Djinn"/>
+        <card number="2" name="Maritime Guard"/>
+        <card number="1" name="Ringwarden Owl"/>
+        <card number="1" name="Scrapskin Drake"/>
+        <card number="2" name="Separatist Voidmage"/>
+        <card number="1" name="Tower Geist"/>
+        <card number="2" name="Claustrophobia"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Hydrolash"/>
+        <card number="1" name="Into the Void"/>
+        <card number="1" name="Veteran's Sidearm"/>
+        <card number="2" name="Weave Fate"/>
+    </zone>
+</cockatrice_deck>
