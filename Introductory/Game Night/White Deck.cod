@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="benalish marshal"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="valiant knight"/>
+        <card number="2" name="dwarven priest"/>
+        <card number="2" name="gallant cavalry"/>
+        <card number="3" name="militia bugler"/>
+        <card number="2" name="pegasus courser"/>
+        <card number="1" name="Aerial Responder"/>
+        <card number="1" name="everdawn champion"/>
+        <card number="2" name="Fan Bearer"/>
+        <card number="2" name="Inspiring Captain"/>
+        <card number="2" name="mesa unicorn"/>
+        <card number="2" name="Serra Angel"/>
+        <card number="1" name="Subjugator Angel"/>
+        <card number="1" name="militant angel"/>
+        <card number="1" name="cleansing nova"/>
+        <card number="2" name="call the cavalry"/>
+        <card number="2" name="Bright Reprisal"/>
+        <card number="1" name="Always Watching"/>
+        <card number="1" name="hieromancer's cage"/>
+        <card number="2" name="Knightly Valor"/>
+        <card number="2" name="luminous bonds"/>
+        <card number="25" name="Plains"/>
+    </zone>
+</cockatrice_deck>
