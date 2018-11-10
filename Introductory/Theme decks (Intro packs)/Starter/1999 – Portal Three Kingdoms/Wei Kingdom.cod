@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wei Kingdom</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Swamp"/>
+        <card number="1" name="Cao Cao, Lord of Wei"/>
+        <card number="2" name="Cunning Advisor"/>
+        <card number="1" name="Sima Yi, Wei Field Marshal"/>
+        <card number="2" name="Wei Assassins"/>
+        <card number="2" name="Wei Ambush Force"/>
+        <card number="2" name="Wei Elite Companions"/>
+        <card number="2" name="Wei Infantry"/>
+        <card number="2" name="Wei Scout"/>
+        <card number="2" name="Wei Strike Force"/>
+        <card number="2" name="Return to Battle"/>
+        <card number="2" name="Imperial Edict"/>
+        <card number="2" name="Deception"/>
+        <card number="2" name="Ghostly Visit"/>
+        <card number="1" name="Ambition's Cost"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mirrodin Pure</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Ardent Recruit"/>
+        <card number="1" name="Argent Sphinx"/>
+        <card number="1" name="Darksteel Gargoyle"/>
+        <card number="1" name="Darksteel Sentinel"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Glimmerpoint Stag"/>
+        <card number="1" name="Gold Myr"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Kuldotha Forgemaster"/>
+        <card number="1" name="Lumengrid Gargoyle"/>
+        <card number="1" name="Memnite"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Silver Myr"/>
+        <card number="1" name="Spire Serpent"/>
+        <card number="1" name="Steel Wall"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Vedalken Certarch"/>
+        <card number="1" name="Bonesplitter"/>
+        <card number="1" name="Slagwurm Armor"/>
+        <card number="1" name="Neurok Stealthsuit"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Viridian Claw"/>
+        <card number="1" name="Thunderstaff"/>
+        <card number="1" name="Arrest"/>
+        <card number="1" name="Steelshaper's Gift"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Purge"/>
+        <card number="1" name="Stoic Rebuttal"/>
+        <card number="1" name="Test of Faith"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Turn the Tide"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Coastal Tower"/>
+        <card number="1" name="Forbidding Watchtower"/>
+        <card number="2" name="Seat of the Synod"/>
+        <card number="2" name="Terramorphic Expanse"/>
+        <card number="8" name="Plains"/>
+        <card number="9" name="Island"/>
+    </zone>
+</cockatrice_deck>

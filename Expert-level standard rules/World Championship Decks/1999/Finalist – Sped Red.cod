@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sped Red</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Avalanche Riders"/>
+        <card number="3" name="Fireslinger"/>
+        <card number="4" name="Jackal Pup"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="4" name="Cursed Scroll"/>
+        <card number="4" name="Shock"/>
+        <card number="2" name="Arc Lightning"/>
+        <card number="3" name="Hammer of Bogardan"/>
+        <card number="4" name="Pillage"/>
+        <card number="4" name="Stone Rain"/>
+        <card number="2" name="Ancient Tomb"/>
+        <card number="2" name="Ghitu Encampment"/>
+        <card number="16" name="Mountain"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Arc Lightning"/>
+        <card number="1" name="Fireslinger"/>
+        <card number="1" name="Flowstone Flood"/>
+        <card number="2" name="Masticore"/>
+        <card number="4" name="Scald"/>
+        <card number="2" name="Shattering Pulse"/>
+        <card number="4" name="Thran Foundry"/>
+    </zone>
+</cockatrice_deck>

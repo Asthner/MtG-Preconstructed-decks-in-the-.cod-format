@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Mountain"/>
+        <card number="2" name="Blisterstick Shaman"/>
+        <card number="2" name="Goblin Arsonist"/>
+        <card number="1" name="Goblin Bangchuckers"/>
+        <card number="2" name="Goblin Fireslinger"/>
+        <card number="2" name="Goblin Piker"/>
+        <card number="2" name="Goblin Tunneler"/>
+        <card number="1" name="Goblin Wardriver"/>
+        <card number="2" name="Shock"/>
+        <card number="1" name="Slaughter Cry"/>
+        <card number="1" name="Goblin Grenade"/>
+        <card number="1" name="Tectonic Rift"/>
+        <card number="1" name="Goblin War Paint"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Plains"/>
+        <card number="2" name="Cloud Crusader"/>
+        <card number="1" name="Elite Vanguard"/>
+        <card number="1" name="Infantry Veteran"/>
+        <card number="1" name="Kor Hookmaster"/>
+        <card number="1" name="Shepherd of the Lost"/>
+        <card number="2" name="Silvercoat Lion"/>
+        <card number="2" name="Wild Griffin"/>
+        <card number="1" name="Mighty Leap"/>
+        <card number="1" name="Excommunicate"/>
+        <card number="1" name="Windborne Charge"/>
+        <card number="1" name="Armored Ascension"/>
+        <card number="2" name="Holy Strength"/>
+        <card number="2" name="Journey to Nowhere"/>
+    </zone>
+</cockatrice_deck>

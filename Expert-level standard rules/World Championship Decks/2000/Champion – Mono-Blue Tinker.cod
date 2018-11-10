@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono-Blue Tinker</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Masticore"/>
+        <card number="4" name="Metalworker"/>
+        <card number="1" name="Phyrexian Colossus"/>
+        <card number="1" name="Crumbling Sanctuary"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="1" name="Mishra's Helix"/>
+        <card number="4" name="Phyrexian Processor"/>
+        <card number="4" name="Tangle Wire"/>
+        <card number="4" name="Thran Dynamo"/>
+        <card number="4" name="Voltaic Key"/>
+        <card number="4" name="Tinker"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Crystal Vein"/>
+        <card number="9" name="Island"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="4" name="Saprazzan Skerry"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Annul"/>
+        <card number="4" name="Chill"/>
+        <card number="4" name="Miscalculation"/>
+        <card number="1" name="Mishra's Helix"/>
+        <card number="2" name="Rising Waters"/>
+    </zone>
+</cockatrice_deck>

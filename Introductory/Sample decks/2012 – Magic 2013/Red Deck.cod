@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Mountain"/>
+        <card number="1" name="Bladetusk Boar"/>
+        <card number="1" name="Dragon Hatchling"/>
+        <card number="1" name="Fervent Cathar"/>
+        <card number="1" name="Fire Elemental"/>
+        <card number="1" name="Furnace Whelp"/>
+        <card number="1" name="Goblin Arsonist"/>
+        <card number="1" name="Goblin Battle Jester"/>
+        <card number="2" name="Riot Devils"/>
+        <card number="1" name="Scalding Devil"/>
+        <card number="1" name="Chandra's Fury"/>
+        <card number="1" name="Kindled Fury"/>
+        <card number="2" name="Searing Spear"/>
+        <card number="1" name="Cleaver Riot"/>
+        <card number="1" name="Flames of the Firebrand"/>
+        <card number="1" name="Wild Guess"/>
+    </zone>
+</cockatrice_deck>

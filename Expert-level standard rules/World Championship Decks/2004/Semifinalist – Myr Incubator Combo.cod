@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Myr Incubator Combo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Chrome Mox"/>
+        <card number="1" name="Goblin Charbelcher"/>
+        <card number="4" name="Krark-Clan Ironworks"/>
+        <card number="4" name="Myr Incubator"/>
+        <card number="4" name="Pentad Prism"/>
+        <card number="3" name="Talisman of Dominance"/>
+        <card number="3" name="Talisman of Progress"/>
+        <card number="4" name="Condescend"/>
+        <card number="3" name="Thirst for Knowledge"/>
+        <card number="3" name="Fabricate"/>
+        <card number="1" name="Fireball"/>
+        <card number="3" name="Serum Visions"/>
+        <card number="4" name="Thoughtcast"/>
+        <card number="2" name="Ancient Den"/>
+        <card number="4" name="Darksteel Citadel"/>
+        <card number="4" name="Great Furnace"/>
+        <card number="4" name="Seat of the Synod"/>
+        <card number="3" name="Tree of Tales"/>
+        <card number="2" name="Vault of Whispers"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Mana Leak"/>
+        <card number="4" name="Furnace Dragon"/>
+        <card number="4" name="Seething Song"/>
+        <card number="3" name="Pyroclasm"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Reanimator</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Anger"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="4" name="Doomed Necromancer"/>
+        <card number="1" name="Phantom Nishoba"/>
+        <card number="1" name="Symbiotic Wurm"/>
+        <card number="1" name="Undead Gladiator"/>
+        <card number="1" name="Visara the Dreadful"/>
+        <card number="3" name="Entomb"/>
+        <card number="2" name="Smother"/>
+        <card number="3" name="Buried Alive"/>
+        <card number="4" name="Burning Wish"/>
+        <card number="1" name="Cabal Therapy"/>
+        <card number="1" name="Chainer's Edict"/>
+        <card number="3" name="Innocent Blood"/>
+        <card number="1" name="Recoup"/>
+        <card number="3" name="Stitch Together"/>
+        <card number="4" name="Zombify"/>
+        <card number="4" name="Barren Moor"/>
+        <card number="4" name="Bloodstained Mire"/>
+        <card number="6" name="Mountain"/>
+        <card number="2" name="Shadowblood Ridge"/>
+        <card number="9" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Buried Alive"/>
+        <card number="3" name="Cabal Therapy"/>
+        <card number="1" name="Decompose"/>
+        <card number="1" name="Demolish"/>
+        <card number="1" name="Guiltfeeder"/>
+        <card number="1" name="Haunting Echoes"/>
+        <card number="1" name="Last Rites"/>
+        <card number="1" name="Patriarch's Bidding"/>
+        <card number="1" name="Pyroclasm"/>
+        <card number="1" name="Recoup"/>
+        <card number="1" name="Sickening Dreams"/>
+        <card number="1" name="Soul Feast"/>
+        <card number="1" name="Stitch Together"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Plains"/>
+        <card number="1" name="Assault Griffin"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Capashen Knight"/>
+        <card number="1" name="Concordia Pegasus"/>
+        <card number="2" name="Master of Diversion"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Soulmender"/>
+        <card number="1" name="Stonehorn Chanter"/>
+        <card number="1" name="Sunspire Griffin"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Show of Valor"/>
+        <card number="1" name="Righteous Charge"/>
+        <card number="1" name="Divine Favor"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="2" name="Pacifism"/>
+    </zone>
+</cockatrice_deck>

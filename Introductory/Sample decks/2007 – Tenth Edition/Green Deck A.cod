@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Forest"/>
+        <card number="2" name="Crabapple Cohort"/>
+        <card number="2" name="Craw Wurm"/>
+        <card number="2" name="Giant Spider"/>
+        <card number="2" name="Grizzly Bears"/>
+        <card number="2" name="Rootwalla"/>
+        <card number="2" name="Spined Wurm"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Overrun"/>
+        <card number="2" name="Rampant Growth"/>
+        <card number="1" name="Blanchwood Armor"/>
+    </zone>
+</cockatrice_deck>

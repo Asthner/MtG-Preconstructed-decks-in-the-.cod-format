@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="1" name="Guard Gomazoa"/>
+        <card number="1" name="Harbor Serpent"/>
+        <card number="1" name="Hedron Crab"/>
+        <card number="1" name="Merfolk Observer"/>
+        <card number="1" name="Reckless Scholar"/>
+        <card number="2" name="Sea Gate Oracle"/>
+        <card number="1" name="Wall of Frost"/>
+        <card number="1" name="Diminish"/>
+        <card number="1" name="Jace's Ingenuity"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Preordain"/>
+        <card number="1" name="Tome Scour"/>
+        <card number="1" name="Jace's Erasure"/>
+        <card number="2" name="Paralyzing Grasp"/>
+    </zone>
+</cockatrice_deck>

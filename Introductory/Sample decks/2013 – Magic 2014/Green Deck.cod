@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Forest"/>
+        <card number="1" name="Archweaver"/>
+        <card number="1" name="Axebane Stag"/>
+        <card number="1" name="Brindle Boar"/>
+        <card number="1" name="Deadly Recluse"/>
+        <card number="2" name="Elvish Mystic"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="1" name="Kalonian Tusker"/>
+        <card number="1" name="Rootwalla"/>
+        <card number="1" name="Rumbling Baloth"/>
+        <card number="1" name="Woodborn Behemoth"/>
+        <card number="1" name="Chorus of Might"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Giant Growth"/>
+        <card number="1" name="Wildwood Rebirth"/>
+        <card number="1" name="Hunt the Weak"/>
+        <card number="1" name="Seek the Horizon"/>
+    </zone>
+</cockatrice_deck>

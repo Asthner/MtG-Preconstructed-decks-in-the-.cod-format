@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Shu Kingdom</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Plains"/>
+        <card number="2" name="Flanking Troops"/>
+        <card number="1" name="Guan Yu, Sainted Warrior"/>
+        <card number="1" name="Kongming, &quot;Sleeping Dragon&quot;"/>
+        <card number="1" name="Liu Bei, Lord of Shu"/>
+        <card number="3" name="Shu Cavalry"/>
+        <card number="2" name="Shu Farmer"/>
+        <card number="3" name="Shu Foot Soldiers"/>
+        <card number="2" name="Shu General"/>
+        <card number="2" name="Shu Grain Caravan"/>
+        <card number="2" name="Volunteer Militia"/>
+        <card number="2" name="Misfortune's Gain"/>
+        <card number="2" name="Vengeance"/>
+        <card number="2" name="Virtuous Charge"/>
+    </zone>
+</cockatrice_deck>

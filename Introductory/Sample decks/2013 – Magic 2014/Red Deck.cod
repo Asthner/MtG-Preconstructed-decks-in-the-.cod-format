@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" name="Mountain"/>
+        <card number="1" name="Canyon Minotaur"/>
+        <card number="1" name="Dragon Hatchling"/>
+        <card number="2" name="Goblin Shortcutter"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Pitchburn Devils"/>
+        <card number="1" name="Regathan Firecat"/>
+        <card number="1" name="Ripscale Predator"/>
+        <card number="2" name="Chandra's Outrage"/>
+        <card number="1" name="Shock"/>
+        <card number="1" name="Thunder Strike"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Flames of the Firebrand"/>
+        <card number="1" name="Lava Axe"/>
+        <card number="1" name="Seismic Stomp"/>
+        <card number="1" name="Volcanic Geyser"/>
+    </zone>
+</cockatrice_deck>

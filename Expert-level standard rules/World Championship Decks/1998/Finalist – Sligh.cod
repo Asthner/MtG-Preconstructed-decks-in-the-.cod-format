@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sligh</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Ball Lightning"/>
+        <card number="2" name="Goblin Vandal"/>
+        <card number="4" name="Ironclaw Orcs"/>
+        <card number="4" name="Jackal Pup"/>
+        <card number="4" name="Mogg Fanatic"/>
+        <card number="2" name="Mogg Flunkies"/>
+        <card number="1" name="Viashino Sandstalker"/>
+        <card number="4" name="Fireblast"/>
+        <card number="2" name="Hammer of Bogardan"/>
+        <card number="4" name="Incinerate"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Cursed Scroll"/>
+        <card number="17" name="Mountain"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Bottle Gnomes"/>
+        <card number="2" name="Dwarven Miner"/>
+        <card number="2" name="Dwarven Thaumaturgist"/>
+        <card number="1" name="Final Fortune"/>
+        <card number="1" name="Firestorm"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="2" name="Shattering Pulse"/>
+    </zone>
+</cockatrice_deck>

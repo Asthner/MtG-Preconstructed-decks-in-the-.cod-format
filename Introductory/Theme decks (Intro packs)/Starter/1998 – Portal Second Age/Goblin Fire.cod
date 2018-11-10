@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Goblin Fire</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Mountain"/>
+        <card number="2" name="Goblin Cavaliers"/>
+        <card number="2" name="Goblin Firestarter"/>
+        <card number="1" name="Goblin General"/>
+        <card number="2" name="Goblin Glider"/>
+        <card number="2" name="Goblin Matron"/>
+        <card number="2" name="Goblin Piker"/>
+        <card number="2" name="Goblin Raider"/>
+        <card number="3" name="Raging Goblin"/>
+        <card number="2" name="Blaze"/>
+        <card number="2" name="Goblin War Strike"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="3" name="Volcanic Hammer"/>
+        <card number="1" name="Wildfire"/>
+    </zone>
+</cockatrice_deck>

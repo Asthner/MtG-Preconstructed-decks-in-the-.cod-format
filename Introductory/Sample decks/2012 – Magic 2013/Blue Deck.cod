@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Gryff Vanguard"/>
+        <card number="1" name="Jace's Phantasm"/>
+        <card number="2" name="Kraken Hatchling"/>
+        <card number="1" name="Mist Raven"/>
+        <card number="1" name="Scroll Thief"/>
+        <card number="1" name="Vedalken Entrancer"/>
+        <card number="2" name="Wind Drake"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="2" name="Thought Scour"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Mind Sculpt"/>
+        <card number="1" name="Sleep"/>
+        <card number="1" name="Switcheroo"/>
+    </zone>
+</cockatrice_deck>

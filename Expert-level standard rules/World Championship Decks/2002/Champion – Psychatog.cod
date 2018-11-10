@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Psychatog</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Nightscape Familiar"/>
+        <card number="4" name="Psychatog"/>
+        <card number="3" name="Circular Logic"/>
+        <card number="4" name="Counterspell"/>
+        <card number="3" name="Cunning Wish"/>
+        <card number="3" name="Fact or Fiction"/>
+        <card number="3" name="Memory Lapse"/>
+        <card number="4" name="Repulse"/>
+        <card number="3" name="Chainer's Edict"/>
+        <card number="3" name="Deep Analysis"/>
+        <card number="2" name="Upheaval"/>
+        <card number="10" name="Island"/>
+        <card number="2" name="Cephalid Coliseum"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="4" name="Salt Marsh"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Underground River"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Coffin Purge"/>
+        <card number="4" name="Duress"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Gainsay"/>
+        <card number="3" name="Ghastly Demise"/>
+        <card number="1" name="Hibernation"/>
+        <card number="1" name="Mana Short"/>
+        <card number="1" name="Recoil"/>
+        <card number="1" name="Slay"/>
+        <card number="1" name="Teferi's Response"/>
+    </zone>
+</cockatrice_deck>

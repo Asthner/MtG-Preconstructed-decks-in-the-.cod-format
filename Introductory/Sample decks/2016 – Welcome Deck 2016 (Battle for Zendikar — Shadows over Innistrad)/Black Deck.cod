@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Blighted Fen"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Hagra Sharpshooter"/>
+        <card number="1" name="Nightmare"/>
+        <card number="1" name="Rottenheart Ghoul"/>
+        <card number="1" name="Sengir Vampire"/>
+        <card number="1" name="Vampire Envoy"/>
+        <card number="1" name="Vampire Noble"/>
+        <card number="2" name="Walking Corpse"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Bone Splinters"/>
+        <card number="1" name="Dead Weight"/>
+        <card number="2" name="Demon's Grasp"/>
+        <card number="1" name="Dutiful Return"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Tar Snare"/>
+        <card number="1" name="Untamed Hunger"/>
+    </zone>
+</cockatrice_deck>

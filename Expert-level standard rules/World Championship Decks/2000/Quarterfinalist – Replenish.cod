@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Replenish</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Attunement"/>
+        <card number="1" name="Energy Field"/>
+        <card number="4" name="Opalescence"/>
+        <card number="3" name="Parallax Tide"/>
+        <card number="4" name="Parallax Wave"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Seal of Removal"/>
+        <card number="3" name="Counterspell"/>
+        <card number="3" name="Enlightened Tutor"/>
+        <card number="4" name="Frantic Search"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="4" name="Replenish"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="9" name="Island"/>
+        <card number="8" name="Plains"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="4" name="Adarkar Wastes"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Chill"/>
+        <card number="1" name="Circle of Protection: Black"/>
+        <card number="1" name="Cursed Totem"/>
+        <card number="2" name="Daze"/>
+        <card number="3" name="Erase"/>
+        <card number="2" name="Lilting Refrain"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="2" name="Submerge"/>
+        <card number="2" name="Wrath of God"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="ghalta, primal hunger"/>
+        <card number="1" name="gigantosaurus"/>
+        <card number="1" name="goreclaw, terror of qal sisma"/>
+        <card number="1" name="Pelakka Wurm"/>
+        <card number="2" name="Colossal Dreadmaw"/>
+        <card number="2" name="elvish rejuvenator"/>
+        <card number="2" name="ghastbark twins"/>
+        <card number="2" name="Giant Spider"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="vigilant baloth"/>
+        <card number="1" name="Jungle Delver"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="2" name="thrashing brontodon"/>
+        <card number="2" name="Eager Construct"/>
+        <card number="2" name="howling golem"/>
+        <card number="1" name="avatar of growth"/>
+        <card number="1" name="Nissa's Revelation"/>
+        <card number="3" name="Rabid Bite"/>
+        <card number="1" name="Overcome"/>
+        <card number="2" name="Seek the Wilds"/>
+        <card number="1" name="Manalith"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="talons of wildwood"/>
+        <card number="25" name="Forest"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wu Kingdom</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" name="Island"/>
+        <card number="3" name="Straw Soldiers"/>
+        <card number="3" name="Wu Light Cavalry"/>
+        <card number="2" name="Wu Scout"/>
+        <card number="2" name="Wu Longbowman"/>
+        <card number="2" name="Wu Elite Cavalry"/>
+        <card number="1" name="Lu Xun, Scholar General"/>
+        <card number="2" name="Wu Admiral"/>
+        <card number="1" name="Sun Quan, Lord of Wu"/>
+        <card number="2" name="Extinguish"/>
+        <card number="1" name="Exhaustion"/>
+        <card number="2" name="Preemptive Strike"/>
+        <card number="2" name="Forced Retreat"/>
+        <card number="2" name="Brilliant Plan"/>
+    </zone>
+</cockatrice_deck>

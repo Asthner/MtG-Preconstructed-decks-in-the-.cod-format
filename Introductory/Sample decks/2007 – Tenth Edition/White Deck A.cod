@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Plains"/>
+        <card number="1" name="Angel of Mercy"/>
+        <card number="2" name="Apothecary Initiate"/>
+        <card number="1" name="Goldenglow Moth"/>
+        <card number="2" name="Skyhunter Patrol"/>
+        <card number="2" name="Venerable Monk"/>
+        <card number="2" name="Youthful Knight"/>
+        <card number="1" name="Angel's Feather"/>
+        <card number="1" name="Holy Day"/>
+        <card number="1" name="Reviving Dose"/>
+        <card number="2" name="Angelic Blessing"/>
+        <card number="1" name="Heart of Light"/>
+        <card number="2" name="Pacifism"/>
+    </zone>
+</cockatrice_deck>

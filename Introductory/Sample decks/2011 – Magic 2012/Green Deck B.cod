@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Deck B</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Forest"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Brindle Boar"/>
+        <card number="1" name="Cudgel Troll"/>
+        <card number="2" name="Giant Spider"/>
+        <card number="2" name="Leeching Bite"/>
+        <card number="1" name="Quilled Slagwurm"/>
+        <card number="1" name="Stampeding Rhino"/>
+        <card number="1" name="Stingerfling Spider"/>
+        <card number="2" name="Vastwood Gorger"/>
+        <card number="2" name="Viridian Emissary"/>
+        <card number="1" name="Withstand Death"/>
+        <card number="2" name="Rampant Growth"/>
+        <card number="1" name="Arachnus Web"/>
+    </zone>
+</cockatrice_deck>

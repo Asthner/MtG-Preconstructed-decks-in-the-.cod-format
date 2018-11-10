@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Deck A</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Island"/>
+        <card number="2" name="Aether Adept"/>
+        <card number="2" name="Aven Fleetwing"/>
+        <card number="2" name="Coral Merfolk"/>
+        <card number="1" name="Lumengrid Gargoyle"/>
+        <card number="1" name="Neurok Invisimancer"/>
+        <card number="1" name="Phantasmal Dragon"/>
+        <card number="1" name="Skywinder Drake"/>
+        <card number="1" name="Spire Monitor"/>
+        <card number="2" name="Cancel"/>
+        <card number="2" name="Frost Breath"/>
+        <card number="1" name="Turn to Frog"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Mind Control"/>
+    </zone>
+</cockatrice_deck>

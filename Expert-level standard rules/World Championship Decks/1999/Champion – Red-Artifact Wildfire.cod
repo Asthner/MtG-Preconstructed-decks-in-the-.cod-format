@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red-Artifact Wildfire</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Covetous Dragon"/>
+        <card number="1" name="Karn, Silver Golem"/>
+        <card number="3" name="Masticore"/>
+        <card number="4" name="Cursed Scroll"/>
+        <card number="4" name="Fire Diamond"/>
+        <card number="4" name="Grim Monolith"/>
+        <card number="2" name="Mishra's Helix"/>
+        <card number="4" name="Temporal Aperture"/>
+        <card number="4" name="Thran Dynamo"/>
+        <card number="4" name="Voltaic Key"/>
+        <card number="2" name="Worn Powerstone"/>
+        <card number="4" name="Wildfire"/>
+        <card number="3" name="Ancient Tomb"/>
+        <card number="4" name="City of Traitors"/>
+        <card number="13" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Boil"/>
+        <card number="3" name="Earthquake"/>
+        <card number="1" name="Mishra's Helix"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="2" name="Rack and Ruin"/>
+        <card number="2" name="Shattering Pulse"/>
+        <card number="4" name="Spellshock"/>
+    </zone>
+</cockatrice_deck>
